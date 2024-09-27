@@ -1,0 +1,165 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="fritzing-app" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3nuxgl3e9tm1q" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fritzing.rc">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1134">
+              <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/zlibdummy.c">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/commands.cpp">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="298">
+              <caret line="115" column="19" selection-start-line="115" selection-start-column="19" selection-end-line="117" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "ObjectiveC": {
+      "usageCount": 8,
+      "lastUsed": 1718224295642
+    },
+    "Markdown": {
+      "usageCount": 2,
+      "lastUsed": 1718224293668
+    }
+  }
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="2" lastUsage="1718224293668" />
+    </language>
+    <language id="ObjectiveC">
+      <summary usageCount="8" lastUsage="1718224295642" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fritzing-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/fritzing-app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fritzing-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/fritzing-app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/fritzing-app/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="640000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32990506" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="CMake" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Meson" order="5" />
+      <unified_weights left="0.32990506" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="748" y="335" key="FileChooserDialogImpl.ideScale=110" timestamp="1716552355502">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="335" key="FileChooserDialogImpl.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1716552355502" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fritzing.rc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zlibdummy.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commands.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="115" column="19" selection-start-line="115" selection-start-column="19" selection-end-line="117" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

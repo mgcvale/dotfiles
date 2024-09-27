@@ -1,0 +1,15 @@
+<application>
+  <component name="DownloadModelConsentState">
+    <option name="lastNotificationTimestamps">
+      <map>
+        <entry language="CSS" lastNotificationTimestamp="1724422428410" />
+        <entry language="Python" lastNotificationTimestamp="1723481405451" />
+      </map>
+    </option>
+  </component>
+  <component name="Full Line Inline Third Parties">
+    <thirdParties>
+      <entry id="com.github.copilot" is-enabled="true" />
+    </thirdParties>
+  </component>
+</application>

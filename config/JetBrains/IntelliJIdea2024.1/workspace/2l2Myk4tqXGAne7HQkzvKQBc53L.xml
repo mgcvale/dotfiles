@@ -1,0 +1,188 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="mcp940" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1ygpgvkm1c4e3">
+      <file>
+        <entry file="file://$PROJECT_DIR$/eclipse/Client/bin/Start.class">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="264">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eclipse/Client/bin/net/minecraft/init/Blocks.class">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-8064">
+              <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eclipse/Client/bin/net/minecraft/init/MobEffects.class">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-1080">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "CLASS": {
+      "usageCount": 4,
+      "lastUsed": 1724374355802
+    }
+  }
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mcp940" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/mcp940/eclipse/Client}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mcp940" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/mcp940/eclipse/Client}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/mcp940/eclipse/Client/.settings}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1101000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32990506" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Statistic" order="4" />
+      <window_info active="true" anchor="bottom" id="Build" order="4" visible="true" weight="0.32990196" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Python Console" order="4" />
+      <unified_weights bottom="0.32990196" left="0.32990506" />
+    </layoutV2>
+    <recentWindows>
+      <value>Build</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="677" y="275" key="#com.intellij.ide.util.TreeClassChooserDialog.ideScale=110" timestamp="1724374388798">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="677" y="275" key="#com.intellij.ide.util.TreeClassChooserDialog.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1724374388798" />
+    <state x="582" y="226" key="FileChooserDialogImpl.ideScale=110" timestamp="1724374375190">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="582" y="226" key="FileChooserDialogImpl.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1724374375190" />
+    <state x="438" y="110" key="SettingsEditor.ideScale=110" timestamp="1724374089488">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="438" y="110" key="SettingsEditor.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1724374089488" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/eclipse/Client/bin/net/minecraft/init/Blocks.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8064">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eclipse/Client/bin/net/minecraft/crash/CrashReport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eclipse/Client/bin/net/minecraft/init/MobEffects.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1080">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eclipse/Client/bin/Start.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Client</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

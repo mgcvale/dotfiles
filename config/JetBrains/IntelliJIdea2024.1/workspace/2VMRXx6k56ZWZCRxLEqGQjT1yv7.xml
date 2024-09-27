@@ -1,0 +1,326 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="TesteHibernate" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="server3: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1fs44ieszt6sp">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/util/HibernateUtil.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="41">
+              <caret line="27" column="26" selection-end-line="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testehibernate/Disciplina.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="257">
+              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testehibernate/Aluno.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="713">
+              <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testehibernate/TesteHibernate2.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="816">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hibernate.cfg.xml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="634">
+              <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 4,
+      "lastUsed": 1725902457777
+    },
+    "IDEA_MODULE": {
+      "usageCount": 1,
+      "lastUsed": 1725901839806
+    },
+    "XML": {
+      "usageCount": 1,
+      "lastUsed": 1725901958938
+    },
+    "SQL": {
+      "usageCount": 1,
+      "lastUsed": 1725902169906
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/testehibernate/TesteHibernate2.java" />
+      <option value="$PROJECT_DIR$/src/testehibernate/Aluno.java" />
+      <option value="$PROJECT_DIR$/src/hibernate.cfg.xml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="4" lastUsage="1725902457777" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="1" lastUsage="1725902169906" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1725901958938" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TesteHibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/TesteHibernate/TesteHibernate}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TesteHibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/TesteHibernate/TesteHibernate}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/TesteHibernate/TesteHibernate/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TesteHibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/TesteHibernate/TesteHibernate}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/TesteHibernate/TesteHibernate/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/TesteHibernate/TesteHibernate/src/testehibernate}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TesteHibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/TesteHibernate/TesteHibernate}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/TesteHibernate/TesteHibernate/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/TesteHibernate/TesteHibernate/src/util}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.TesteHibernate2" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1756000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14003164" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Persistence" order="2" side_tool="true" weight="0.14003164" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32990196" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.4612745" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Statistic" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info active="true" anchor="right" id="Database" order="2" visible="true" weight="0.118407175" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Python Console" order="4" />
+      <unified_weights bottom="0.4612745" left="0.14003164" right="0.118407175" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Database</value>
+      <value>Project</value>
+      <value>Persistence</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="545" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=110" timestamp="1725902309115">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="545" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1725902309115" />
+    <state x="778" y="199" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.ideScale=110" timestamp="1725901865279">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="778" y="199" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1725901865279" />
+    <state x="577" y="201" key="FileChooserDialogImpl.ideScale=110" timestamp="1725903491869">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="577" y="201" key="FileChooserDialogImpl.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1725903491869" />
+    <state width="1812" height="428" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1725903505428">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1812" height="428" key="GridCell.Tab.0.bottom.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1725903505428" />
+    <state width="1812" height="428" key="GridCell.Tab.0.center.ideScale=110" timestamp="1725903505428">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1812" height="428" key="GridCell.Tab.0.center.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1725903505428" />
+    <state width="1812" height="428" key="GridCell.Tab.0.left.ideScale=110" timestamp="1725903505428">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1812" height="428" key="GridCell.Tab.0.left.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1725903505428" />
+    <state width="1812" height="428" key="GridCell.Tab.0.right.ideScale=110" timestamp="1725903505428">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1812" height="428" key="GridCell.Tab.0.right.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1725903505428" />
+    <state x="433" y="85" key="SettingsEditor.ideScale=110" timestamp="1725902044890">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="433" y="85" key="SettingsEditor.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1725902044890" />
+    <state x="555" y="226" width="800" height="613" key="new project wizard.ideScale=110" timestamp="1725903503825">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="555" y="226" width="800" height="613" key="new project wizard.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1725903503825" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TesteHibernate.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/11017915-1156-481a-9197-6e08ae41594d/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="634">
+          <caret line="52" column="20" lean-forward="true" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testehibernate/Disciplina.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testehibernate/Aluno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testehibernate/TesteHibernate2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/HibernateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="27" column="26" selection-end-line="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TesteHibernate</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>antlr-2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,369 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ArrayList2" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="hpir4lcm92kx" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/ex2/Main.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="276">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ex2/Employee.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="384">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="e#98#99#0" expanded="true" />
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ex2/Hourly.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="528">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+              <folding>
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#434#435#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ex2/Salaried.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="408">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+              <folding>
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 29,
+      "lastUsed": 1714047328088
+    },
+    "XML": {
+      "usageCount": 4,
+      "lastUsed": 1714047327661
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/ex1/Livro.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ex1/DVD.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ex1/Produto.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ex1/CD.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ex1/Main.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ex2/Employee.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ex2/Salaried.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ex2/Hourly.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ex2/Main.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="29" lastUsage="1714047328088" />
+    </language>
+    <language id="XML">
+      <summary usageCount="4" lastUsage="1714047327661" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ArrayList2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArrayList2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArrayList2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArrayList2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArrayList2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2/src/main/java/ex1}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArrayList2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2/src/main/java/ex2}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5375000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11861703" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" x="-168" y="659" width="1814" height="250" id="Run" order="4" show_stripe_button="false" weight="0.3939544" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Statistic" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3939544" left="0.11861703" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="262" width="557" height="568" key="#com.intellij.ide.util.MemberChooser.ideScale=110" timestamp="1713917099685">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="262" width="557" height="568" key="#com.intellij.ide.util.MemberChooser.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1713917099685" />
+    <state x="1221" y="321" width="424" height="454" key="FileChooserDialogImpl.ideScale=110" timestamp="1714047372999">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1221" y="321" width="424" height="454" key="FileChooserDialogImpl.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1714047372999" />
+    <state width="1814" height="355" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1713919781218">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="355" key="GridCell.Tab.0.bottom.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1713919781218" />
+    <state width="1814" height="355" key="GridCell.Tab.0.center.ideScale=110" timestamp="1713919781218">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="355" key="GridCell.Tab.0.center.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1713919781218" />
+    <state width="1814" height="355" key="GridCell.Tab.0.left.ideScale=110" timestamp="1713919781218">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="355" key="GridCell.Tab.0.left.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1713919781218" />
+    <state width="1814" height="355" key="GridCell.Tab.0.right.ideScale=110" timestamp="1713919781218">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="355" key="GridCell.Tab.0.right.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1713919781218" />
+    <state x="689" y="312" width="540" height="540" key="StructurePopup.ideScale=110" timestamp="1713806848853">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="689" y="312" width="540" height="540" key="StructurePopup.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1713806848853" />
+    <state x="623" y="275" width="697" height="684" key="search.everywhere.popup.ideScale=110" timestamp="1713809455189">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="275" width="697" height="684" key="search.everywhere.popup.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1713809455189" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex1/Livro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex1/Produto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex1/CD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="56" column="48" selection-start-line="56" selection-start-column="48" selection-end-line="56" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2184#2185#0" expanded="true" />
+            <element signature="e#2233#2234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex1/DVD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex2/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex2/Hourly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex2/Salaried.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

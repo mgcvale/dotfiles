@@ -1,0 +1,231 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Javafx" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1i1tx9fo6h4c4" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 4,
+      "lastUsed": 1718374366008
+    },
+    "XML": {
+      "usageCount": 3,
+      "lastUsed": 1718374365779
+    },
+    "GitIgnore file": {
+      "usageCount": 3,
+      "lastUsed": 1718374366259
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/com/github/mgcvale/javafx/Main.java" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="3" lastUsage="1718374366259" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="4" lastUsage="1718374366009" />
+    </language>
+    <language id="XML">
+      <summary usageCount="3" lastUsage="1718374365780" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/..">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5027000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16376582" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3295678" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.3295678" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Statistic" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32954544" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3295678" left="0.16376582" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1814" height="293" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1718374631872">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="293" key="GridCell.Tab.0.bottom.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1718374631872" />
+    <state width="1814" height="293" key="GridCell.Tab.0.center.ideScale=110" timestamp="1718374631872">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="293" key="GridCell.Tab.0.center.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1718374631872" />
+    <state width="1814" height="293" key="GridCell.Tab.0.left.ideScale=110" timestamp="1718374631871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="293" key="GridCell.Tab.0.left.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1718374631871" />
+    <state width="1814" height="293" key="GridCell.Tab.0.right.ideScale=110" timestamp="1718374631872">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="293" key="GridCell.Tab.0.right.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1718374631872" />
+    <state x="498" y="235" key="Maven.ArtifactSearchDialog.ideScale=110" timestamp="1716574665000">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="498" y="235" key="Maven.ArtifactSearchDialog.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1716574665000" />
+    <state x="1413" y="886" width="474" height="140" key="ProcessPopupWindow.ideScale=110" timestamp="1718374470780">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1413" y="886" width="474" height="140" key="ProcessPopupWindow.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1718374470780" />
+    <state x="393" y="228" key="SettingsEditor.ideScale=110" timestamp="1716576547327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="393" y="228" key="SettingsEditor.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1716576547327" />
+    <state x="698" y="285" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=110" timestamp="1716577143859">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="285" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1716577143859" />
+    <state x="560" y="205" width="800" height="707" key="new project wizard.ideScale=110" timestamp="1718374629736">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="205" width="800" height="707" key="new project wizard.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1718374629736" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/Main.java" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mgcvale/javafx/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-296">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>22</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Javafx</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.openjfx:javafx-base:19</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

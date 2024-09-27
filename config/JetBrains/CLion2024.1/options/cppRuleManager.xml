@@ -1,0 +1,16 @@
+<application>
+  <component name="cppRuleManager">
+    <group name="std">
+      <item>std::*</item>
+    </group>
+    <group name="Boost">
+      <item>boost::*</item>
+    </group>
+    <group name="Catch">
+      <item>Catch::*</item>
+    </group>
+    <group name="Google Test">
+      <item>testing::*</item>
+    </group>
+  </component>
+</application>

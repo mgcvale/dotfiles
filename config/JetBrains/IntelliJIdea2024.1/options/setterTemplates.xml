@@ -1,0 +1,12 @@
+<application>
+  <component name="SetterTemplates" defaultTemplateName="IntelliJ Default">
+    <option name="templates">
+      <list>
+        <TemplateResource>
+          <option name="fileName" value="IntelliJ Default with support" />
+          <option name="template" value="#set($paramName = $helper.getParamName($field, $project))&#10;#if($field.modifierStatic)&#10;static ##&#10;#end&#10;void set$StringUtil.capitalizeWithJavaBeanConvention($StringUtil.sanitizeJavaIdentifier($helper.getPropertyName($field, $project)))($field.type $paramName) {&#10;    $field.type oldValue = this.$field.name;&#10;#if ($field.name == $paramName)&#10;    #if (!$field.modifierStatic)&#10;    this.##&#10;    #else&#10;        $classname.##&#10;    #end&#10;#end&#10;$field.name = $paramName;&#10;support.firePropertyChange(&quot;$field.name&quot;, oldValue, this.$field.name);&#10;}" />
+        </TemplateResource>
+      </list>
+    </option>
+  </component>
+</application>

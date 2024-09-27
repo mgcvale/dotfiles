@@ -1,0 +1,384 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="exapi" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="snwivtdp0flm">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mgcvale/exapi/ExapiApplication.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="48">
+              <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mgcvale/exapi/ProdutoRepository.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="120">
+              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mgcvale/exapi/controller/ProdutoController.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="384">
+              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#652#653#0" expanded="true" />
+                <element signature="e#624#625#0" expanded="true" />
+                <element signature="e#656#657#0" expanded="true" />
+                <element signature="e#757#758#0" expanded="true" />
+                <element signature="e#806#807#0" expanded="true" />
+                <element signature="e#893#894#0" expanded="true" />
+                <element signature="e#940#941#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mgcvale/exapi/model/Produto.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="456">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="168">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="192">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 4,
+      "lastUsed": 1727115729007
+    },
+    "XML": {
+      "usageCount": 1,
+      "lastUsed": 1727115448574
+    },
+    "Properties": {
+      "usageCount": 1,
+      "lastUsed": 1727115468250
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/src/main/java/com/github/mgcvale/exapi/model/Produto.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/github/mgcvale/exapi/controller/ProdutoController.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/github/mgcvale/exapi/model/ProdutoRepository.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/github/mgcvale/exapi/ProdutoRepository.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="4" lastUsage="1727115729007" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="1" lastUsage="1727115468250" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1727115448574" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="exapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src/main/java/com/github/mgcvale/exapi}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src/main/java/com/github/mgcvale/exapi}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src/main/java/com/github/mgcvale/exapi/controller}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src/main/java/com/github/mgcvale/exapi}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src/main/java/com/github/mgcvale/exapi/model}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/exapi/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="812000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32990506" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Welcome to GitHub Copilot" order="2" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.32990196" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Statistic" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" visible="true" weight="0.36715686" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="4" />
+      <unified_weights bottom="0.36715686" left="0.32990506" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="135" width="1027" height="845" key="#Project_Structure.ideScale=110" timestamp="1727115465303">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="443" y="135" width="1027" height="845" key="#Project_Structure.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1727115465303" />
+    <state x="753" y="242" width="406" height="632" key="#com.intellij.ide.util.MemberChooser.ideScale=110" timestamp="1727117753908">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="753" y="242" width="406" height="632" key="#com.intellij.ide.util.MemberChooser.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1727117753908" />
+    <state x="717" y="422" width="479" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.ideScale=110" timestamp="1727117814689">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="717" y="422" width="479" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1727117814689" />
+    <state width="1812" height="294" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1727117965107">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1812" height="294" key="GridCell.Tab.0.bottom.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1727117965107" />
+    <state width="1812" height="294" key="GridCell.Tab.0.center.ideScale=110" timestamp="1727117965105">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1812" height="294" key="GridCell.Tab.0.center.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1727117965105" />
+    <state width="1812" height="294" key="GridCell.Tab.0.left.ideScale=110" timestamp="1727117965104">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1812" height="294" key="GridCell.Tab.0.left.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1727117965104" />
+    <state width="1812" height="294" key="GridCell.Tab.0.right.ideScale=110" timestamp="1727117965106">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1812" height="294" key="GridCell.Tab.0.right.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1727117965106" />
+    <state width="1812" height="294" key="GridCell.Tab.1.bottom.ideScale=110" timestamp="1727117965107">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1812" height="294" key="GridCell.Tab.1.bottom.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1727117965107" />
+    <state width="1812" height="294" key="GridCell.Tab.1.center.ideScale=110" timestamp="1727117965107">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1812" height="294" key="GridCell.Tab.1.center.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1727117965107" />
+    <state width="1812" height="294" key="GridCell.Tab.1.left.ideScale=110" timestamp="1727117965107">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1812" height="294" key="GridCell.Tab.1.left.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1727117965107" />
+    <state width="1812" height="294" key="GridCell.Tab.1.right.ideScale=110" timestamp="1727117965107">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1812" height="294" key="GridCell.Tab.1.right.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1727117965107" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mgcvale/exapi/model/Produto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mgcvale/exapi/controller/ProdutoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#940#941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mgcvale/exapi/ProdutoRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mgcvale/exapi/ExapiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="68" lean-forward="true" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>exapi</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

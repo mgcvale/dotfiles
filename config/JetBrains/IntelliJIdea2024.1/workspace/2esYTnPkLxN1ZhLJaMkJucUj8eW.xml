@@ -1,0 +1,316 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="estudo-jdbc" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="hpir4lcm92kx" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ui/AddView.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="4144">
+              <caret line="155" column="49" selection-start-line="155" selection-start-column="49" selection-end-line="155" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/test/java/data/TableManager.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="115">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ui/Application.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-557">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ui/ProgramView.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1285">
+              <caret line="250" column="38" selection-start-line="250" selection-start-column="38" selection-end-line="250" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 38,
+      "lastUsed": 1716557581306
+    },
+    "XML": {
+      "usageCount": 8,
+      "lastUsed": 1716145732724
+    },
+    "Markdown": {
+      "usageCount": 13,
+      "lastUsed": 1716557580442
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/test/java/data/DatabaseController.java" />
+      <option value="$PROJECT_DIR$/src/test/java/Main.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="38" lastUsage="1716557581306" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="13" lastUsage="1716557580442" />
+    </language>
+    <language id="XML">
+      <summary usageCount="8" lastUsage="1716145732725" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="estudo-jdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="estudo-jdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="estudo-jdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="estudo-jdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="estudo-jdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src/main/java/com/github/mgcvale/dbwrapper}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="estudo-jdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src/test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="estudo-jdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src/test/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="estudo-jdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src/test/java/data}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="estudo-jdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/estudo-jdbc/src/test/java/ui}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9075000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31619197" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.12722772" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Statistic" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32990506" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.12722772" left="0.31619197" right="0.32990506" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="319" width="424" height="458" key="FileChooserDialogImpl" timestamp="1712780623280">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="319" key="FileChooserDialogImpl.ideScale=110" timestamp="1716146097914">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="319" key="FileChooserDialogImpl.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1716146097914" />
+    <state x="743" y="319" width="424" height="458" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1712780623280" />
+    <state width="1814" height="295" key="GridCell.Tab.0.bottom" timestamp="1712695302363">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1812" height="86" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1715887112373">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1812" height="86" key="GridCell.Tab.0.bottom.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1715887112373" />
+    <state width="1814" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1712695302362" />
+    <state width="1814" height="295" key="GridCell.Tab.0.center" timestamp="1712695302362">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1812" height="86" key="GridCell.Tab.0.center.ideScale=110" timestamp="1715887112373">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1812" height="86" key="GridCell.Tab.0.center.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1715887112373" />
+    <state width="1814" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1712695302362" />
+    <state width="1814" height="295" key="GridCell.Tab.0.left" timestamp="1712695302362">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1812" height="86" key="GridCell.Tab.0.left.ideScale=110" timestamp="1715887112372">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1812" height="86" key="GridCell.Tab.0.left.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1715887112372" />
+    <state width="1814" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1712695302362" />
+    <state width="1814" height="295" key="GridCell.Tab.0.right" timestamp="1712695302362">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1812" height="86" key="GridCell.Tab.0.right.ideScale=110" timestamp="1715887112373">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1812" height="86" key="GridCell.Tab.0.right.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1715887112373" />
+    <state width="1814" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1712695302362" />
+    <state x="1413" y="888" width="474" height="139" key="ProcessPopupWindow" timestamp="1712694856703">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1413" y="888" width="474" height="139" key="ProcessPopupWindow/0.0.1920.1080@0.0.1920.1080" timestamp="1712694856703" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/data/DatabaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mgcvale/dbwrapper/DatabaseManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1679">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ui/AddView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4144">
+          <caret line="155" column="49" selection-start-line="155" selection-start-column="49" selection-end-line="155" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ui/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-557">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ui/ProgramView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1285">
+          <caret line="250" column="38" selection-start-line="250" selection-start-column="38" selection-end-line="250" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/data/TableManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

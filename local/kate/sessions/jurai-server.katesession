@@ -1,0 +1,241 @@
+[Document 0]
+URL=
+
+[Document 1]
+URL=file:///home/mgcv/projetos-pessoais/jurai/server/app/main/service/advogado_service.py
+
+[Document 10]
+URL=file:///home/mgcv/projetos-pessoais/jurai/server/app/main/model/requerente.py
+
+[Document 2]
+URL=file:///home/mgcv/projetos-pessoais/jurai/server/app/main/controller/advogado_controller.py
+
+[Document 3]
+URL=file:///home/mgcv/projetos-pessoais/jurai/server/app/main/controller/ai_controller.py
+
+[Document 4]
+URL=file:///home/mgcv/projetos-pessoais/jurai/server/app/main/controller/advogado_controller.py
+
+[Document 5]
+URL=file:///home/mgcv/projetos-pessoais/jurai/server/app/main/__init__.py
+
+[Document 6]
+URL=file:///home/mgcv/projetos-pessoais/jurai/server/app/main/controller/advogado_controller.py
+
+[Document 7]
+URL=file:///home/mgcv/projetos-pessoais/jurai/server/app/config.py
+
+[Document 8]
+URL=file:///home/mgcv/projetos-pessoais/jurai/server/app/main/extensions.py
+
+[Document 9]
+URL=file:///home/mgcv/projetos-pessoais/jurai/server/app/main/controller/requerente_controller.py
+
+[Kate Plugins]
+cmaketoolsplugin=false
+compilerexplorer=false
+eslintplugin=false
+externaltoolsplugin=true
+formatplugin=false
+katebacktracebrowserplugin=false
+katebuildplugin=false
+katecloseexceptplugin=false
+katecolorpickerplugin=false
+katectagsplugin=false
+katefilebrowserplugin=false
+katefiletreeplugin=true
+kategdbplugin=false
+kategitblameplugin=false
+katekonsoleplugin=true
+kateprojectplugin=true
+katereplicodeplugin=false
+katesearchplugin=true
+katesnippetsplugin=false
+katesqlplugin=false
+katesymbolviewerplugin=false
+katexmlcheckplugin=false
+katexmltoolsplugin=false
+keyboardmacrosplugin=false
+ktexteditorpreviewplugin=false
+latexcompletionplugin=false
+lspclientplugin=true
+openlinkplugin=false
+rainbowparens=false
+rbqlplugin=false
+tabswitcherplugin=true
+textfilterplugin=true
+
+[MainWindow0]
+Active ViewSpace=0
+Kate-MDI-H-Splitter=276,1614,0
+Kate-MDI-Sidebar-0-Bar-0-TvList=kate_private_plugin_katefiletreeplugin,kateproject,kateprojectgit,lspclient_symbol_outline
+Kate-MDI-Sidebar-0-LastSize=321
+Kate-MDI-Sidebar-0-SectSizes=0
+Kate-MDI-Sidebar-0-Splitter=30
+Kate-MDI-Sidebar-1-Bar-0-TvList=
+Kate-MDI-Sidebar-1-LastSize=200
+Kate-MDI-Sidebar-1-SectSizes=0
+Kate-MDI-Sidebar-1-Splitter=30
+Kate-MDI-Sidebar-2-Bar-0-TvList=
+Kate-MDI-Sidebar-2-LastSize=200
+Kate-MDI-Sidebar-2-SectSizes=0
+Kate-MDI-Sidebar-2-Splitter=100
+Kate-MDI-Sidebar-3-Bar-0-TvList=output,diagnostics,kate_plugin_katesearch,kateprojectinfo,kate_private_plugin_katekonsoleplugin
+Kate-MDI-Sidebar-3-LastSize=210
+Kate-MDI-Sidebar-3-SectSizes=0
+Kate-MDI-Sidebar-3-Splitter=100
+Kate-MDI-Sidebar-Style=2
+Kate-MDI-Sidebar-Visible=false
+Kate-MDI-ToolView-diagnostics-Position=3
+Kate-MDI-ToolView-diagnostics-Show-Button-In-Sidebar=true
+Kate-MDI-ToolView-diagnostics-Visible=false
+Kate-MDI-ToolView-kate_plugin_katesearch-Position=3
+Kate-MDI-ToolView-kate_plugin_katesearch-Show-Button-In-Sidebar=true
+Kate-MDI-ToolView-kate_plugin_katesearch-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Show-Button-In-Sidebar=true
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Show-Button-In-Sidebar=true
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Visible=true
+Kate-MDI-ToolView-kateproject-Position=0
+Kate-MDI-ToolView-kateproject-Show-Button-In-Sidebar=true
+Kate-MDI-ToolView-kateproject-Visible=true
+Kate-MDI-ToolView-kateprojectgit-Position=0
+Kate-MDI-ToolView-kateprojectgit-Show-Button-In-Sidebar=true
+Kate-MDI-ToolView-kateprojectgit-Visible=false
+Kate-MDI-ToolView-kateprojectinfo-Position=3
+Kate-MDI-ToolView-kateprojectinfo-Show-Button-In-Sidebar=true
+Kate-MDI-ToolView-kateprojectinfo-Visible=false
+Kate-MDI-ToolView-lspclient_symbol_outline-Position=0
+Kate-MDI-ToolView-lspclient_symbol_outline-Show-Button-In-Sidebar=true
+Kate-MDI-ToolView-lspclient_symbol_outline-Visible=false
+Kate-MDI-ToolView-output-Position=3
+Kate-MDI-ToolView-output-Show-Button-In-Sidebar=true
+Kate-MDI-ToolView-output-Visible=false
+Kate-MDI-V-Splitter=0,603,267
+ToolBarsMovable=Disabled
+
+[MainWindow0 Settings]
+ToolBarsMovable=Disabled
+WindowState=2
+
+[MainWindow0-Splitter 0]
+Children=MainWindow0-ViewSpace 0
+Orientation=1
+Sizes=1614
+
+[MainWindow0-ViewSpace 0]
+Active View=file:///home/mgcv/projetos-pessoais/jurai/server/app/main/controller/ai_controller.py
+Count=3
+Documents=file:///home/mgcv/projetos-pessoais/jurai/server/app/main/service/advogado_service.py,file:///home/mgcv/projetos-pessoais/jurai/server/app/main/controller/advogado_controller.py,file:///home/mgcv/projetos-pessoais/jurai/server/app/main/controller/ai_controller.py
+View 0=file:///home/mgcv/projetos-pessoais/jurai/server/app/main/service/advogado_service.py
+View 1=file:///home/mgcv/projetos-pessoais/jurai/server/app/main/controller/advogado_controller.py
+View 2=file:///home/mgcv/projetos-pessoais/jurai/server/app/main/controller/ai_controller.py
+View 3=file:///home/mgcv/projetos-pessoais/jurai/server/app/main/__init__.py
+View 4=file:///home/mgcv/projetos-pessoais/jurai/server/run.py
+View 5=file:///home/mgcv/projetos-pessoais/jurai/server/app/main/controller/advogado_controller.py
+View 6=file:///home/mgcv/projetos-pessoais/jurai/server/app/config.py
+View 7=file:///home/mgcv/projetos-pessoais/jurai/server/app/main/extensions.py
+
+[MainWindow0-ViewSpace 0 file:///home/mgcv/projetos-pessoais/jurai/server/app/__init__.py]
+CursorColumn=0
+CursorLine=12
+
+[MainWindow0-ViewSpace 0 file:///home/mgcv/projetos-pessoais/jurai/server/app/config.py]
+CursorColumn=50
+CursorLine=5
+
+[MainWindow0-ViewSpace 0 file:///home/mgcv/projetos-pessoais/jurai/server/app/main/__init__.py]
+CursorColumn=21
+CursorLine=19
+
+[MainWindow0-ViewSpace 0 file:///home/mgcv/projetos-pessoais/jurai/server/app/main/controller/advogado_controller.py]
+CursorColumn=65
+CursorLine=53
+ScrollLine=33
+
+[MainWindow0-ViewSpace 0 file:///home/mgcv/projetos-pessoais/jurai/server/app/main/controller/ai_controller.py]
+ScrollLine=14
+
+[MainWindow0-ViewSpace 0 file:///home/mgcv/projetos-pessoais/jurai/server/app/main/controller/requerente_controller.py]
+CursorColumn=16
+CursorLine=92
+ScrollLine=75
+
+[MainWindow0-ViewSpace 0 file:///home/mgcv/projetos-pessoais/jurai/server/app/main/model/demanda.py]
+CursorColumn=42
+CursorLine=34
+ScrollLine=15
+
+[MainWindow0-ViewSpace 0 file:///home/mgcv/projetos-pessoais/jurai/server/app/main/model/requerente.py]
+ScrollLine=36
+
+[MainWindow0-ViewSpace 0 file:///home/mgcv/projetos-pessoais/jurai/server/app/main/service/advogado_service.py]
+CursorColumn=0
+CursorLine=70
+ScrollLine=48
+
+[MainWindow0-ViewSpace 0 file:///home/mgcv/projetos-pessoais/jurai/server/app/main/service/requerente_service.py]
+CursorColumn=33
+CursorLine=50
+ScrollLine=4
+
+[MainWindow0-ViewSpace 0 file:///home/mgcv/projetos-pessoais/jurai/server/run.py]
+CursorColumn=17
+CursorLine=5
+
+[Open Documents]
+Count=4
+
+[Open MainWindows]
+Count=1
+
+[Plugin:kateprojectplugin:]
+projects=
+
+[Plugin:katesearchplugin:MainWindow:0]
+BinaryFiles=false
+CurrentExcludeFilter=-1
+CurrentFilter=-1
+ExcludeFilters=
+ExpandSearchResults=false
+Filters=
+FollowSymLink=false
+HiddenFiles=false
+MatchCase=false
+Place=1
+Recursive=true
+Replaces=
+Search=
+SearchAsYouTypeAllProjects=true
+SearchAsYouTypeCurrentFile=true
+SearchAsYouTypeFolder=true
+SearchAsYouTypeOpenFiles=true
+SearchAsYouTypeProject=true
+SearchDiskFiles=
+SearchDiskFiless=
+SizeLimit=128
+UseRegExp=false
+
+[Recent Files]
+File1[$e]=$HOME/projetos-pessoais/jurai/server/app/main/__init__.py
+File10[$e]=$HOME/projetos-pessoais/jurai/server/app/main/controller/ai_controller.py
+File2[$e]=$HOME/projetos-pessoais/jurai/server/app/__init__.py
+File3[$e]=$HOME/projetos-pessoais/jurai/server/app/main/service/advogado_service.py
+File4[$e]=$HOME/projetos-pessoais/jurai/server/app/main/controller/advogado_controller.py
+File5[$e]=$HOME/projetos-pessoais/jurai/server/app/main/controller/demanda_controller.py
+File6[$e]=$HOME/projetos-pessoais/jurai/server/app/main/controller/requerente_controller.py
+File7[$e]=$HOME/projetos-pessoais/jurai/server/app/main/model/requerente.py
+File8[$e]=$HOME/projetos-pessoais/jurai/server/app/main/service/requerente_service.py
+File9[$e]=$HOME/projetos-pessoais/jurai/server/app/main/model/demanda.py
+Name1[$e]=__init__.py
+Name10[$e]=ai_controller.py
+Name2[$e]=__init__.py
+Name3[$e]=advogado_service.py
+Name4[$e]=advogado_controller.py
+Name5[$e]=demanda_controller.py
+Name6[$e]=requerente_controller.py
+Name7[$e]=requerente.py
+Name8[$e]=requerente_service.py
+Name9[$e]=demanda.py

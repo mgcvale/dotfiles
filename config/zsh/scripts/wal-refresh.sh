@@ -1,0 +1,1 @@
+wal -R > /dev/null

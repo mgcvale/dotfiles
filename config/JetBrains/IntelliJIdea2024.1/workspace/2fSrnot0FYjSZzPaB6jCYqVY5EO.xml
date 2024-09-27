@@ -1,0 +1,111 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ArrayList2" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="hpir4lcm92kx">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <folding>
+                <element signature="e#63#64#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 1,
+      "lastUsed": 1713805498165
+    }
+  }
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="1" lastUsage="1713805498166" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ArrayList2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArrayList2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/dev/IdeaProjects/ArrayList2/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32990506" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Statistic" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.32990506" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="263" key="new project wizard.ideScale=110" timestamp="1713805518026">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="263" key="new project wizard.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1713805518026" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#63#64#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

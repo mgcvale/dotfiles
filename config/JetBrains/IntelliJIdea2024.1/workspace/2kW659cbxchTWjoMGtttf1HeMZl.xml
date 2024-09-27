@@ -1,0 +1,178 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="obi" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3c8c4lf0ycn4" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/2021/pratique/lista.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2021/pratique/media.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="120">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 1,
+      "lastUsed": 1723470959421
+    },
+    "textmate": {
+      "usageCount": 7,
+      "lastUsed": 1723471446081
+    },
+    "Python": {
+      "usageCount": 1,
+      "lastUsed": 1723471022817
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/2021/pratique/media.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="1" lastUsage="1723470959424" />
+    </language>
+    <language id="Python">
+      <summary usageCount="1" lastUsage="1723471022817" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="7" lastUsage="1723471446081" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="473000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33031917" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32990196" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32990196" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Statistic" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Python Console" order="5" />
+      <unified_weights bottom="0.32990196" left="0.33031917" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="438" y="110" key="#Project_Structure.ideScale=110" timestamp="1723471255938">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="438" y="110" key="#Project_Structure.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1723471255938" />
+    <state x="686" y="151" key="FileChooserDialogImpl.ideScale=110" timestamp="1723471425602">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="686" y="151" key="FileChooserDialogImpl.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1723471425601" />
+    <state x="446" y="143" key="SettingsEditor.ideScale=110" timestamp="1723471290957">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="446" y="143" key="SettingsEditor.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1723471290957" />
+    <state x="535" y="126" width="800" height="613" key="new project wizard.ideScale=110" timestamp="1723471166779">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="535" y="126" width="800" height="613" key="new project wizard.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1723471166779" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/2021/pratique/media.java" />
+    <entry file="file://$PROJECT_DIR$/2021/pratique/media.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021/pratique/lista.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>obi</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

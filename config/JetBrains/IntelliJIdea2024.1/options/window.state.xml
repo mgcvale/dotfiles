@@ -1,0 +1,28 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.0.0.1920.1080" x="625" y="123" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1812" height="294" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1812" height="294" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1812" height="294" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1812" height="294" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1812" height="294" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1812" height="294" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1812" height="294" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1812" height="294" />
+    <size key="find.popup.0.0.1920.1080" width="664" height="564" />
+  </component>
+  <component name="WindowManager">
+    <frame x="12" y="48" width="953" height="1020" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="743" y="316" width="427" height="484" key="FileChooserDialogImpl.ideScale=110" timestamp="1726862856905">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="743" y="316" width="427" height="484" key="FileChooserDialogImpl.ideScale=110/0.36.1920.1044" timestamp="1726862856905" />
+    <state width="507" height="336" key="ShowUsagesActions.dimensionServiceKey.ideScale=110" timestamp="1727374272748">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="753" height="142" key="ShowUsagesActions.dimensionServiceKey.ideScale=110/0.0.1920.1080" timestamp="1722526550712" />
+    <state width="507" height="336" key="ShowUsagesActions.dimensionServiceKey.ideScale=110/0.36.1920.1044" timestamp="1727374272748" />
+  </component>
+</application>

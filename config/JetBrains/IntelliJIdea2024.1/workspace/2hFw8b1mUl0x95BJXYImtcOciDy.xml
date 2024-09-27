@@ -1,0 +1,164 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Lucas" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="hpir4lcm92kx" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <folding>
+                <element signature="e#63#64#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/ProductGrid.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="576">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#491#492#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProdutoPanel.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="72">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 6,
+      "lastUsed": 1717269269763
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Main.java" />
+      <option value="$PROJECT_DIR$/src/ProdutoPanel.java" />
+      <option value="$PROJECT_DIR$/src/ProductGrid.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="6" lastUsage="1717269269763" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lucas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/Cotil/Java/Lucas}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lucas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/Cotil/Java/Lucas}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/Cotil/Java/Lucas/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2191000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32990506" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Statistic" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.32990506" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="319" width="424" height="454" key="FileChooserDialogImpl.ideScale=110" timestamp="1717269335662">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="319" width="424" height="454" key="FileChooserDialogImpl.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1717269335662" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#63#64#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProdutoPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProductGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

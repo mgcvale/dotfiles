@@ -1,0 +1,9 @@
+<application>
+  <component name="LessonStateBase">
+    <option name="map">
+      <map>
+        <entry key="clion.onboarding" value="NOT_PASSED" />
+      </map>
+    </option>
+  </component>
+</application>

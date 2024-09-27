@@ -1,0 +1,7 @@
+{
+  "servers": {
+    "python": {
+      "command": ["pyright-langserver", "--stdio"]
+    }
+  }
+}

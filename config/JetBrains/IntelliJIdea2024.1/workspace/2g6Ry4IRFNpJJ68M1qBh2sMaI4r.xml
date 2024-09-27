@@ -1,0 +1,305 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ExsAbstract" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="hpir4lcm92kx" />
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 13,
+      "lastUsed": 1715017660731
+    },
+    "XML": {
+      "usageCount": 1,
+      "lastUsed": 1715016297437
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/ex1/Empregado.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ex1/Assalariado.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ex1/Comissionado.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ex1/Horista.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ex1/Main.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ex1/Ex1.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ex2/TipoPagamento.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ex2/Cheque.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ex2/Dinheiro.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ex2/CartaoCredito.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ex2/ex2.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="13" lastUsage="1715017660731" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1715016297437" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1994000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.66684437" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.3301887" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Statistic" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3301887" left="0.66684437" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="262" key="#com.intellij.ide.util.MemberChooser.ideScale=110" timestamp="1715017832328">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="262" key="#com.intellij.ide.util.MemberChooser.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1715017832328" />
+    <state x="388" y="336" key="FileChooserDialogImpl.ideScale=110" timestamp="1715018282334">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="388" y="336" key="FileChooserDialogImpl.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1715018282334" />
+    <state width="1093" height="290" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1715018290683">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1093" height="290" key="GridCell.Tab.0.bottom.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1715018290683" />
+    <state width="1093" height="290" key="GridCell.Tab.0.center.ideScale=110" timestamp="1715018290683">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1093" height="290" key="GridCell.Tab.0.center.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1715018290683" />
+    <state width="1093" height="290" key="GridCell.Tab.0.left.ideScale=110" timestamp="1715018290683">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1093" height="290" key="GridCell.Tab.0.left.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1715018290683" />
+    <state width="1093" height="290" key="GridCell.Tab.0.right.ideScale=110" timestamp="1715018290683">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1093" height="290" key="GridCell.Tab.0.right.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1715018290683" />
+    <state x="200" y="263" key="new project wizard.ideScale=110" timestamp="1715018288627">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="200" y="263" key="new project wizard.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1715018288627" />
+    <state x="623" y="275" width="697" height="684" key="search.everywhere.popup.ideScale=110" timestamp="1715017940611">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="275" width="697" height="684" key="search.everywhere.popup.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1715017940611" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex1/Comissionado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+          <folding>
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex1/Horista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+          <folding>
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex1/Ex1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex1/Assalariado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding>
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex1/Empregado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-419">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex2/TipoPagamento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex2/Cheque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex2/CartaoCredito.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex2/Dinheiro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex2/ex2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="88" selection-start-line="18" selection-start-column="88" selection-end-line="18" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

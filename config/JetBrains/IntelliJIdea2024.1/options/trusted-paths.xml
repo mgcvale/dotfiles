@@ -1,0 +1,59 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Downloads/jurai-desktop-fff48c79e29b45e2548344fbe8f2f2d7594387ca" value="true" />
+        <entry key="$USER_HOME$/Escola/Cotil/Java/Javafx" value="true" />
+        <entry key="$USER_HOME$/Escola/Cotil/Java/Lucas" value="true" />
+        <entry key="$USER_HOME$/Escola/Cotil/Java/ProjetoJava" value="true" />
+        <entry key="$USER_HOME$/Escola/Cotil/Java/columns" value="true" />
+        <entry key="$USER_HOME$/Escola/Cotil/Java/pele" value="true" />
+        <entry key="$USER_HOME$/Escola/Cotil/Java/pele2" value="true" />
+        <entry key="$USER_HOME$/Escola/java/ExsAbstract2" value="true" />
+        <entry key="$USER_HOME$/Escola/java/ProjetoJava" value="true" />
+        <entry key="$USER_HOME$/Escola/java/TesteHibernate" value="true" />
+        <entry key="$USER_HOME$/Escola/java/TesteHibernate/TesteHibernate" value="true" />
+        <entry key="$USER_HOME$/Escola/java/exExceca9" value="true" />
+        <entry key="$USER_HOME$/Escola/java/exExcecao" value="true" />
+        <entry key="$USER_HOME$/Escola/java/exapi" value="true" />
+        <entry key="$USER_HOME$/Escola/java/spring1" value="true" />
+        <entry key="$USER_HOME$/JFoenix" value="true" />
+        <entry key="$USER_HOME$/JavaFX" value="true" />
+        <entry key="$USER_HOME$/MaterialFX" value="true" />
+        <entry key="$USER_HOME$/antonio-oop" value="true" />
+        <entry key="$USER_HOME$/brModelo" value="true" />
+        <entry key="$USER_HOME$/dev/IdeaProjects/ArrayList2" value="true" />
+        <entry key="$USER_HOME$/dev/IdeaProjects/JavaFX" value="true" />
+        <entry key="$USER_HOME$/dev/IdeaProjects/JavaFXCrud" value="true" />
+        <entry key="$USER_HOME$/dev/IdeaProjects/MgcvLayout" value="true" />
+        <entry key="$USER_HOME$/dev/IdeaProjects/estudo-jdbc" value="true" />
+        <entry key="$USER_HOME$/dev/IdeaProjects/ex1ArrayList" value="true" />
+        <entry key="$USER_HOME$/dev/IdeaProjects/ex2ArrayList" value="true" />
+        <entry key="$USER_HOME$/dev/IdeaProjects/ex3ArrayList" value="true" />
+        <entry key="$USER_HOME$/dev/IdeaProjects/mgcManager" value="true" />
+        <entry key="$USER_HOME$/dev/IdeaProjects/mgcvClicker" value="true" />
+        <entry key="$USER_HOME$/dev/IdeaProjects/mgcvManager" value="true" />
+        <entry key="$USER_HOME$/dev/IdeaProjects/mgcvclicker" value="true" />
+        <entry key="$USER_HOME$/dev/IdeaProjects/spring-study" value="true" />
+        <entry key="$USER_HOME$/dev/IdeaProjects/test" value="true" />
+        <entry key="$USER_HOME$/estoque" value="true" />
+        <entry key="$USER_HOME$/hibernate1" value="true" />
+        <entry key="$USER_HOME$/javafx-maven-template" value="true" />
+        <entry key="$USER_HOME$/jurai-desktop" value="true" />
+        <entry key="$USER_HOME$/mcp940" value="true" />
+        <entry key="$USER_HOME$/mgcvclicker" value="true" />
+        <entry key="$USER_HOME$/mvc1" value="true" />
+        <entry key="$USER_HOME$/mvc2" value="true" />
+        <entry key="$USER_HOME$/obi" value="true" />
+        <entry key="$USER_HOME$/obi-practice" value="true" />
+        <entry key="$USER_HOME$/projetos-pessoais/fotos/spring-study/spring-study" value="true" />
+        <entry key="$USER_HOME$/projetos-pessoais/fotos2" value="true" />
+        <entry key="$USER_HOME$/projetos-pessoais/fotos2/spring-study" value="true" />
+        <entry key="$USER_HOME$/projetos-pessoais/hyprsync-backend" value="true" />
+        <entry key="$USER_HOME$/projetos-pessoais/hyprsync/ExsAbstract" value="true" />
+        <entry key="$USER_HOME$/projetos-pessoais/hyprsync/hyprsync-backend" value="true" />
+        <entry key="$USER_HOME$/projetos-pessoais/jurai-desktop" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

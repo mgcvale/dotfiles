@@ -1,0 +1,208 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="5" l="1723985238628" />
+    </e>
+    <e n="$SelectAll">
+      <i c="6" l="1723985219372" />
+    </e>
+    <e n="$Undo">
+      <i c="18" l="1725583043907" />
+    </e>
+    <e n="ActivateBookmarksToolWindow">
+      <i c="1" l="1723754307803" />
+    </e>
+    <e n="ActivateFindToolWindow">
+      <i c="1" l="1723984350665" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="1" l="1723754308159" />
+    </e>
+    <e n="BraceOrQuoteOut">
+      <i c="1" l="1715258831294" />
+    </e>
+    <e n="CIDR.Lang.Cpp.NewClass">
+      <i c="1" l="1723984790272" />
+    </e>
+    <e n="CMake.OpenSettings">
+      <i c="1" l="1715259064188" />
+    </e>
+    <e n="CPP.CreateCMakeProject">
+      <i c="10" l="1725580037039" />
+    </e>
+    <e n="CPP.NewCppFile">
+      <i c="3" l="1725580421787" />
+    </e>
+    <e n="CPP.NewHeaderFile">
+      <i c="4" l="1725580234915" />
+    </e>
+    <e n="CPP.NewQtUiClass">
+      <i c="1" l="1715258945096" />
+    </e>
+    <e n="CreateDesktopEntry">
+      <i c="1" l="1715258508607" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="724" l="1725583062767" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1716470836542" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="114" l="1725582380509" />
+    </e>
+    <e n="EditorCopy">
+      <i c="9" l="1725582403223" />
+    </e>
+    <e n="EditorCut">
+      <i c="9" l="1725583005901" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="355" l="1725583048694" />
+    </e>
+    <e n="EditorDown">
+      <i c="173" l="1725582347978" />
+    </e>
+    <e n="EditorEnter">
+      <i c="315" l="1725583056192" />
+    </e>
+    <e n="EditorEscape">
+      <i c="2" l="1715526671143" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="1" l="1723984478951" />
+    </e>
+    <e n="EditorLeft">
+      <i c="178" l="1725582348615" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="2" l="1723984382800" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="2" l="1723985414594" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="1" l="1715526054391" />
+    </e>
+    <e n="EditorPageDown">
+      <i c="1" l="1723754468635" />
+    </e>
+    <e n="EditorPaste">
+      <i c="22" l="1725583043401" />
+    </e>
+    <e n="EditorPasteFromX11">
+      <i c="1" l="1723984543496" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="6" l="1725582328849" />
+    </e>
+    <e n="EditorRight">
+      <i c="211" l="1725583082816" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="1" l="1723985335030" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="4" l="1724859116005" />
+    </e>
+    <e n="EditorTab">
+      <i c="22" l="1725580294380" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="2" l="1723985794711" />
+    </e>
+    <e n="EditorUp">
+      <i c="104" l="1725582405107" />
+    </e>
+    <e n="ExpandRegion">
+      <i c="1" l="1715258580790" />
+    </e>
+    <e n="ExternalSystem.ProjectRefreshAction">
+      <i c="5" l="1725580262193" />
+    </e>
+    <e n="Find">
+      <i c="1" l="1725580194665" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1715258583679" />
+    </e>
+    <e n="NewDir">
+      <i c="3" l="1715525765590" />
+    </e>
+    <e n="NewFile">
+      <i c="1" l="1715259048997" />
+    </e>
+    <e n="OpenFile">
+      <i c="2" l="1716552156272" />
+    </e>
+    <e n="QmlLang.OpenSettings">
+      <i c="2" l="1715259081394" />
+    </e>
+    <e n="RenameElement">
+      <i c="4" l="1723985266786" />
+    </e>
+    <e n="Run">
+      <i c="11" l="1718224455179" />
+    </e>
+    <e n="RunAnything">
+      <i c="1" l="1723985552826" />
+    </e>
+    <e n="SelectInProjectView">
+      <i c="2" l="1724858944182" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="6" l="1723748516845" />
+    </e>
+    <e n="ShowSettings">
+      <i c="6" l="1723748518634" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="3" l="1723985408074" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
+      <i c="1" l="1715258647582" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="7" l="1723985646964" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="1" l="1725580196780" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1718224305036" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="1" l="1716552279603" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="4" l="1723985230639" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1723985553603" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="7" l="1724858904615" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="2" l="1715259291157" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="1" l="1715526550552" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1715258559738" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1715258505011" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="3" l="1723984352676" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="2" l="1723985409997" />
+    </e>
+    <e n="com.jetbrains.cidr.cpp.cmake.workspace.CMakeNotificationProvider$1">
+      <i c="1" l="1716552281207" />
+    </e>
+  </component>
+</application>

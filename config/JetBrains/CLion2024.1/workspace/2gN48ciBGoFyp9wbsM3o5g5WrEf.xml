@@ -1,0 +1,165 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="estudoGTK" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3nuxgl3e9tm1q" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../estudoGTKmm/CMakeLists.txt">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../estudoGTKmm/main.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="135">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/../estudoGTKmm/headers/helloworld.h">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="297">
+              <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "ObjectiveC": {
+      "usageCount": 6,
+      "lastUsed": 1715525664391
+    },
+    "CMakeLists.txt": {
+      "usageCount": 3,
+      "lastUsed": 1715525664339
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/main.cpp" />
+      <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      <option value="$PROJECT_DIR$/headers/helloworld.h" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CMake">
+      <summary usageCount="3" lastUsage="1715525664339" />
+    </language>
+    <language id="ObjectiveC">
+      <summary usageCount="6" lastUsage="1715525664391" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake Application.estudoGTK" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1136000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33031917" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.32987142" />
+      <window_info anchor="bottom" id="CMake" order="6" visible="true" weight="0.32987142" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.32987142" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Meson" order="5" />
+      <unified_weights bottom="0.32987142" left="0.33031917" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>CMake</value>
+      <value>Run</value>
+      <value>Messages</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="270" y="335" key="FileChooserDialogImpl.ideScale=110" timestamp="1715525637961">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="270" y="335" key="FileChooserDialogImpl.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1715525637961" />
+    <state width="1814" height="291" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1715525496877">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="291" key="GridCell.Tab.0.bottom.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1715525496877" />
+    <state width="1814" height="291" key="GridCell.Tab.0.center.ideScale=110" timestamp="1715525496877">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="291" key="GridCell.Tab.0.center.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1715525496877" />
+    <state width="1814" height="291" key="GridCell.Tab.0.left.ideScale=110" timestamp="1715525496877">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="291" key="GridCell.Tab.0.left.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1715525496877" />
+    <state width="1814" height="291" key="GridCell.Tab.0.right.ideScale=110" timestamp="1715525496877">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="291" key="GridCell.Tab.0.right.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1715525496877" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../estudoGTKmm/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../estudoGTKmm/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../estudoGTKmm/headers/helloworld.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,201 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="spring-study" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="hpir4lcm92kx">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mgcvale/springstudy/SpringStudyApplication.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="312">
+              <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+              <folding>
+                <element signature="e#754#755#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mgcvale/springstudy/security/SecurityManager.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="96">
+              <caret line="4" column="70" lean-forward="true" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 2,
+      "lastUsed": 1714047691868
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/com/github/mgcvale/springstudy/security/SecurityManager.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="2" lastUsage="1714047691868" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/projetos-pessoais/fotos2/spring-study}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/projetos-pessoais/fotos2/spring-study}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/projetos-pessoais/fotos2/spring-study/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/projetos-pessoais/fotos2/spring-study}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/projetos-pessoais/fotos2/spring-study/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/projetos-pessoais/fotos2/spring-study/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/projetos-pessoais/fotos2/spring-study}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/projetos-pessoais/fotos2/spring-study/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/projetos-pessoais/fotos2/spring-study/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/projetos-pessoais/fotos2/spring-study/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/projetos-pessoais/fotos2/spring-study}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/projetos-pessoais/fotos2/spring-study/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/projetos-pessoais/fotos2/spring-study/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/projetos-pessoais/fotos2/spring-study/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/projetos-pessoais/fotos2/spring-study/src/main/java/com/github/mgcvale/springstudy}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Spring Boot.SpringStudyApplication" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="60000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32990506" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.32953417" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Statistic" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32953417" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.32953417" left="0.32990506" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="748" y="336" key="FileChooserDialogImpl.ideScale=110" timestamp="1714047728524">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="336" key="FileChooserDialogImpl.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1714047728524" />
+    <state width="1814" height="290" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1714047733825">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="290" key="GridCell.Tab.0.bottom.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1714047733825" />
+    <state width="1814" height="290" key="GridCell.Tab.0.center.ideScale=110" timestamp="1714047733825">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="290" key="GridCell.Tab.0.center.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1714047733825" />
+    <state width="1814" height="290" key="GridCell.Tab.0.left.ideScale=110" timestamp="1714047733825">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="290" key="GridCell.Tab.0.left.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1714047733825" />
+    <state width="1814" height="290" key="GridCell.Tab.0.right.ideScale=110" timestamp="1714047733825">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="290" key="GridCell.Tab.0.right.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1714047733825" />
+    <state width="1814" height="290" key="GridCell.Tab.1.bottom.ideScale=110" timestamp="1714047733825">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="290" key="GridCell.Tab.1.bottom.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1714047733825" />
+    <state width="1814" height="290" key="GridCell.Tab.1.center.ideScale=110" timestamp="1714047733825">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="290" key="GridCell.Tab.1.center.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1714047733825" />
+    <state width="1814" height="290" key="GridCell.Tab.1.left.ideScale=110" timestamp="1714047733825">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="290" key="GridCell.Tab.1.left.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1714047733825" />
+    <state width="1814" height="290" key="GridCell.Tab.1.right.ideScale=110" timestamp="1714047733825">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="290" key="GridCell.Tab.1.right.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1714047733825" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mgcvale/springstudy/SpringStudyApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="19" column="58" lean-forward="true" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+          <folding>
+            <element signature="e#754#755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mgcvale/springstudy/security/SecurityManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="70" lean-forward="true" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

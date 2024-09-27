@@ -1,0 +1,376 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="spring1" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="cl203001@143.106.241.3: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="cl203001@143.106.241.3: DSN" type="27e358d6:DataSourceNode" />
+        <item name="cl203001: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="cl203001@143.106.241.3: DSN" type="27e358d6:DataSourceNode" />
+        <item name="cl203001: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="Family of 12 table (host: schema cl203001)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="snwivtdp0flm">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-776" />
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="168">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/fa5474a8-a28b-46ed-b4a9-3f1b9cce3e30/console.sql">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="das://fa5474a8-a28b-46ed-b4a9-3f1b9cce3e30/schema/cl203001/table/aluno">
+          <provider editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider" selected="true">
+            <state lastOpenedTimestamp="1726508596780" presentationMode="TABLE" projectRestartId="93b91122-9158-4336-ae16-0f1bb23a6216" pageSize="500">
+              <filtering>
+                <filter text="" />
+              </filtering>
+              <sorting>
+                <sort text="" />
+              </sorting>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mgcvale/spring1/Spring1Application.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="192">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mgcvale/spring1/model/Aluno.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="473">
+              <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 2,
+      "lastUsed": 1726508383022
+    },
+    "XML": {
+      "usageCount": 1,
+      "lastUsed": 1726507532141
+    },
+    "Database Element": {
+      "usageCount": 1,
+      "lastUsed": 1726508597576
+    },
+    "Properties": {
+      "usageCount": 1,
+      "lastUsed": 1726507556422
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1726507547280
+    },
+    "SQL": {
+      "usageCount": 1,
+      "lastUsed": 1726508588384
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/com/github/mgcvale/spring1/model/Aluno.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="2" lastUsage="1726508383022" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1726507547280" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="1" lastUsage="1726507556423" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="1" lastUsage="1726508588384" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1726507532142" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src/main/java/com/github/mgcvale/spring1}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src/main/java/com/github/mgcvale/spring1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src/main/java/com/github/mgcvale/spring1/model}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src/test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src/test/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mgcv/Escola/java/spring1/src/test/java/com/github/mgcvale/spring1}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Spring Boot.Spring1Application" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3143000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12420886" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Welcome to GitHub Copilot" order="2" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.32990196" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Statistic" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32990506" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="4" weight="0.32990506" />
+      <unified_weights bottom="0.32990196" left="0.12420886" right="0.32990506" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Database</value>
+      <value>Run</value>
+      <value>GitHub Copilot Chat</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=110" timestamp="1726508588183">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="550" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1726508588183" />
+    <state x="749" y="217" key="#com.intellij.ide.util.MemberChooser.ideScale=110" timestamp="1726508459786">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="749" y="217" key="#com.intellij.ide.util.MemberChooser.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1726508459786" />
+    <state width="1812" height="294" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1726510651794">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1812" height="294" key="GridCell.Tab.0.bottom.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1726510651794" />
+    <state width="1812" height="294" key="GridCell.Tab.0.center.ideScale=110" timestamp="1726510651794">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1812" height="294" key="GridCell.Tab.0.center.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1726510651794" />
+    <state width="1812" height="294" key="GridCell.Tab.0.left.ideScale=110" timestamp="1726510651794">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1812" height="294" key="GridCell.Tab.0.left.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1726510651794" />
+    <state width="1812" height="294" key="GridCell.Tab.0.right.ideScale=110" timestamp="1726510651794">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1812" height="294" key="GridCell.Tab.0.right.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1726510651794" />
+    <state width="1812" height="294" key="GridCell.Tab.1.bottom.ideScale=110" timestamp="1726510651795">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1812" height="294" key="GridCell.Tab.1.bottom.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1726510651795" />
+    <state width="1812" height="294" key="GridCell.Tab.1.center.ideScale=110" timestamp="1726510651795">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1812" height="294" key="GridCell.Tab.1.center.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1726510651795" />
+    <state width="1812" height="294" key="GridCell.Tab.1.left.ideScale=110" timestamp="1726510651795">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1812" height="294" key="GridCell.Tab.1.left.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1726510651795" />
+    <state width="1812" height="294" key="GridCell.Tab.1.right.ideScale=110" timestamp="1726510651795">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1812" height="294" key="GridCell.Tab.1.right.ideScale=110/0.36.1920.1044@0.36.1920.1044" timestamp="1726510651795" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-776" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mgcvale/spring1/Spring1Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://fa5474a8-a28b-46ed-b4a9-3f1b9cce3e30/schema/cl203001/table/aluno">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1726508596780" presentationMode="TABLE" projectRestartId="93b91122-9158-4336-ae16-0f1bb23a6216" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/fa5474a8-a28b-46ed-b4a9-3f1b9cce3e30/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mgcvale/spring1/model/Aluno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
