@@ -1,8 +1,0 @@
-<application>
-  <component name="LafManager">
-    <laf themeId="com.github.aslbarnett.lapisaquamarinejetbrains" />
-    <lafs-to-previous-schemes>
-      <laf-to-scheme laf="ExperimentalDark" scheme="_@user_Solarized Dark" />
-    </lafs-to-previous-schemes>
-  </component>
-</application>
