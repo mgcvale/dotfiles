@@ -1,0 +1,25 @@
+python lsp (pyright)
+mongoose
+cjson
+IDEs
+java/maven
+git/github
+vim
+easyeffects
+kate
+
+// hyprland-related
+swaync
+waybar
+kvantum manager
+qt5/6ct
+kitty
+rofi/wofi/drun
+swappy
+swaylock
+pywal
+wlogout
+plank maybe
+
+
+
