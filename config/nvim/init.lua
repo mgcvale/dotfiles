@@ -1,57 +1,45 @@
--- general configs
 vim.o.number = true
 vim.o.relativenumber = true
 
+-- Enable syntax highlighting
+vim.cmd('syntax on')
 
--- plugins
+-- Set a color scheme
 
--- lsp
-vim.cmd([[
-  call plug#begin('~/.local/share/nvim/plugged')
+-- Install packer if not installed
+local ensure_packer = function()
+  local fn = vim.fn
+  local install_path = fn.stdpath('data') .. '/site/pack/packer/start/packer.nvim'
+  if fn.empty(fn.glob(install_path)) > 0 then
+    fn.system({'git', 'clone', '--depth', '1', 'https://github.com/wbthomason/packer.nvim', install_path})
+    vim.cmd [[packadd packer.nvim]]
+    return true
+  end
+  return false
+end
+ensure_packer()
 
-  Plug 'neovim/nvim-lspconfig'
+-- Packer setup
+require('packer').startup(function()
+  use 'wbthomason/packer.nvim' -- Packer manages itself
+  use {
+    'nvim-treesitter/nvim-treesitter',
+    run = ':TSUpdate'
+  }
+  use 'morhetz/gruvbox'
+  use 'folke/tokyonight.nvim'
+  use 'arcticicestudio/nord-vim'
+  use 'altercation/vim-colors-solarized'
+  use 'catppuccin/nvim'
+  use 'bluz71/vim-nightfly-colors'
+end)
 
-  call plug#end()
-]])
-
--- pyright
-local lspconfig = require('lspconfig')
-lspconfig.pytight.setup{}
-
-Plug 'hrsh7th/nvim-cmp'
-Plug 'hrsh7th/cmp-nvim-lsp'
-Plug 'hrsh7th/cmp-buffer'
-Plug 'hrsh7th/cmp-path'
-Plug 'hrsh7th/cmp-vsnip'
-Plug 'hrsh7th/vim-vsnip'
-
-local cmp = require'cmp'
-
-cmp.setup({
-  snippet = {
-    expand = function(args)
-      vim.fn["vsnip#anonymous"](args.body)
-    end,
+-- Treesitter configuration for C
+require'nvim-treesitter.configs'.setup {
+  ensure_installed = {"c"},
+  highlight = {
+    enable = true,
   },
-  mapping = {
-    ['<C-b>'] = cmp.mapping.scroll_docs(-4),
-    ['<C-f>'] = cmp.mapping.scroll_docs(4),
-    ['<C-Space>'] = cmp.mapping.complete(),
-    ['<C-e>'] = cmp.mapping.abort(),
-    ['<CR>'] = cmp.mapping.confirm({ select = true }),
-  },
-  sources = cmp.config.sources({
-    { name = 'nvim_lsp' },
-    { name = 'vsnip' }
-  }, {
-    { name = 'buffer' },
-  })
-})
-
-local capabilities = require('cmp_nvim_lsp').default_capabilities()
-require('lspconfig').pyright.setup {
-  capabilities = capabilities
 }
 
-
-
+cmd('colorscheme nightfly')
