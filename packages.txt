@@ -13,13 +13,22 @@ swaync
 waybar
 kvantum manager
 qt5/6ct
+nwg-look
 kitty
 rofi/wofi/drun
 swappy
 swaylock
 pywal
 wlogout
-plank maybe
+network-manager-gnome
+nm-applet
 
+For theming:
+KDE-Story (SDDM)
+Vivid Dark Qt/Kvantum theme
+Default GTK cursors
+Breeze icons
+Blender Pro system-wide font
 
-
+Other stuff you need to do:
+Bind waybar's and Hyprland's IPC sockets
