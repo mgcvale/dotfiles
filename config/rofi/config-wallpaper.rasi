@@ -1,55 +1,48 @@
-/* ---- 💫 https://github.com/JaKooLit 💫 ---- */
-/* Main Config wallpaper */
+/*
+ made by mgcv
+ github: @mgcvale
+ based on default rofi theme
+*/
 
-/* ---- Configuration ---- */
+
 configuration {
-    modi:                  "drun,run,filebrowser";
-    font:                  "Fira Code SemiBold 12";
-    show-icons:            true;
-    display-drun:          "";
-	display-run:           "";
-    display-filebrowser:   "";
-    display-window:        "";
-	drun-display-format:   "{name}";
-    hover-select:          true;
-    me-select-entry:       "MouseSecondary";
-    me-accept-entry:       "MousePrimary";
-    window-format:         "{w} · {c} · {t}";
-	dpi:					1;
-    
+	modi:                       "drun";
+    show-icons:                 true;
+    display-drun:               "";
+	drun-display-format:        "{name}";
+	font: "Font Awesome 18";
 }
 
-/* ---- Load pywal colors (custom wal template) ---- */
 @import "~/.config/rofi/pywal-color/pywal-theme.rasi"
 
-/* ---- Window ---- */
 window {
-    width:					700px;
-	/*height:				450px;*/
-    x-offset:               0px;
-    y-offset:               0px;
-    spacing:                0px;
-    padding:                2px;
-    margin:                 0px; 
-    border:                 2px;
-    border-color:           @active-background;
-    cursor:                 "default";
-    location:               center;
-    anchor:                 center;
-    fullscreen:             false;
-    enabled:                true;
-    border-radius:          12px;
-    border-radius:          12px;
-	background-image:   	url("~/.config/rofi/.current_wallpaper", height);
+    transparency:                "real";
+    location:                    center;
+    anchor:                      center;
+    fullscreen:                  false;
+    width:                       700px;
+    x-offset:                    0px;
+    y-offset:                    0px;
+
+    enabled:                     true;
+    margin:                      0px;
+    padding:                     0px;
+    border:                      2px solid;
+    border-color: @active-background;
+    border-radius:               12px;
+    background-color: @background;
+    opacity: 95;
+    cursor:                      "default";
 }
 
 /* ---- Mainbox ---- */
 mainbox {
     enabled:                true;
     orientation:            horizontal;
-	padding:				8px;
+	padding:				24px;
     children:               [ "imagebox"];
-    border-radius:          12px;
+    border-radius:          0px;
+    spacing: 4px;
     background-color:       transparent;
 }
 
@@ -62,11 +55,11 @@ imagebox {
 
 /* ---- Listbox ---- */
 listbox {
+    margin: 4px 0 0 0;
     spacing:                4px;
     orientation:            vertical;
     children:               [ "listview" ];
     border-radius:          10px;
-    border:                 1px;
     border-color:           @active-background;
 	background-color:		@background;
 }
@@ -78,16 +71,17 @@ dummy {
 
 /* ---- Inputbar ---- */
 inputbar {
-    enabled:                true;
-    text-color:             @foreground;
-    spacing:                10px;
-    padding:                8px;
-    border-radius:          10px;
-    border-color:           @foreground;
-	background-color:		@background;
-    children:               [ "textbox-prompt-colon", "entry" ];
-    border:                 1px;
-    border-color:           @active-background;
+    enabled:                     true;
+    spacing:                     10px;
+    margin:                      0px;
+    padding:                     6px 8px;
+    border:                      0px solid;
+    border-radius:               12px;
+    border-color:                @selected;
+    background-color:            rgba(255, 255, 255, 0.2);
+    text-color:                  @foreground;
+    children:                    [ "entry" ];
+    font: "Font Awesome 14";
 }
 
 textbox-prompt-colon {
@@ -99,12 +93,17 @@ textbox-prompt-colon {
 }
 
 entry {
-    enabled:                true;
-    text-color:             inherit;
-    cursor:                 text;
-    placeholder:            "Choose Wallpaper";
-    placeholder-color:      inherit;
-	background-color:		transparent;
+    enabled:                     true;
+    background-color:            transparent;
+    text-color:                  inherit;
+    cursor:                      text;
+    placeholder:                 "Search...";
+    location:                    center;
+    anchor:                      center;
+    padding: 6px 8px;
+    border-radius: 8px;
+    placeholder-color:           inherit;
+    font: "Font Awesome 14";
 }
 
 /* ---- Listview ---- */

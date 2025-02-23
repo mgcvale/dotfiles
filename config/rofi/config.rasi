@@ -1,87 +1,180 @@
+/*
+ made by mgcv
+ github: @mgcvale
+ based on default rofi theme
+*/
+
+/*****----- Configuration -----*****/
 configuration {
-	/*---------- General setting ----------*/
-	modi: "drun,run,filebrowser";
-	case-sensitive: false;
-	cycle: false;
-	filter: "";
-	scroll-method: 1;
-	normalize-match: true;
-	show-icons: true;
-	icon-theme: "Catppuccin-SE";
-	steal-focus: false;
-
-	/*---------- Matching setting ----------*/
-	matching: "normal";
-	tokenize: true;
-
-	/*---------- SSH settings ----------*/
-	ssh-client: "ssh";
-	ssh-command: "{terminal} -e {ssh-client} {host} [-p {port}]";
-	parse-hosts: true;
-	parse-known-hosts: true;
-
-	/*---------- Drun settings ----------*/
-	drun-categories: "";
-	drun-match-fields: "name,generic,exec,categories,keywords";
-	drun-display-format: "{name} [<span weight='light' size='small'><i>({generic})</i></span>]";
-	drun-show-actions: false;
-	drun-url-launcher: "xdg-open";
-	drun-use-desktop-cache: false;
-	drun-reload-desktop-cache: false;
-	drun {
-		/** Parse user desktop files. */
-		parse-user:   true;
-		/** Parse system desktop files. */
-		parse-system: true;
-    }
-
-	/*---------- Run settings ----------*/
-	run-command: "{cmd}";
-	run-list-command: "";
-	run-shell-command: "{terminal} -e {cmd}";
-
-	/*---------- Fallback Icon ----------*/
-	run,drun {
-		fallback-icon: "application-x-addon";
-	}
-
-	/*---------- Window switcher settings ----------*/
-	window-match-fields: "title,class,role,name,desktop";
-	window-command: "wmctrl -i -R {window}";
-	window-format: "{w} - {c} - {t:0}";
-	window-thumbnail: false;
-
-	/*---------- History and Sorting ----------*/
-	disable-history: false;
-	sorting-method: "fzf";
-	max-history-size: 25;
-
-	/*---------- Display setting ----------*/
-	display-window: "Windows";
-	display-windowcd: "Window CD";
-	display-run: "Run";
-	display-ssh: "SSH";
-	display-drun: "Apps";
-	display-combi: "Combi";
-	display-keys: "Keys";
-	display-filebrowser: "Files";
-
-	/*---------- Misc setting ----------*/
-	terminal: "rofi-sensible-terminal";
-	sort: false;
-	threads: 0;
-	click-to-exit: true;
-
-	/*---------- File browser settings ----------*/
-    filebrowser {
-      directories-first: true;
-      sorting-method:    "name";
-    }
-
-	/*---------- Other settings ----------*/
-    timeout {
-      action: "kb-cancel";
-      delay:  0;
-    }
+	modi:                       "drun";
+    show-icons:                 true;
+    display-drun:               "";
+	drun-display-format:        "{name}";
+	font: "Font Awesome 12";
 }
-@theme "style"
+
+/*****----- Global Properties -----*****/
+@import "~/.config/rofi/pywal-color/pywal-theme.rasi"
+
+window {
+    transparency:                "real";
+    location:                    center;
+    anchor:                      center;
+    fullscreen:                  false;
+    width:                       700px;
+    x-offset:                    0px;
+    y-offset:                    0px;
+
+    enabled:                     true;
+    margin:                      0px;
+    padding:                     0px;
+    border:                      2px solid;
+    border-color: @active-background;
+    border-radius:               12px;
+    background-color: @background;
+	opacity: 95;
+    cursor:                      "default";
+}
+
+/*****----- Main Box -----*****/
+mainbox {
+    enabled:                     true;
+    spacing:                     10px;
+    margin:                      0px;
+    padding:                     20px;
+    border:                      4px solid;
+    border-radius:               0px 0px 0px 0px;
+    border-color:                @selected;
+    background-color:            transparent;
+    children:                    [ "inputbar", "listview" ];
+}
+
+/*****----- Inputbar -----*****/
+inputbar {
+    enabled:                     true;
+    spacing:                     10px;
+    margin:                      0px;
+    padding:                     8px;
+    border:                      0px solid;
+    border-radius:               12px;
+    border-color:                @selected;
+    background-color:            rgba(255, 255, 255, 0.2); /* Lighter semi-transparent background */
+    text-color:                  @foreground; /* Ensure text is dark */
+    children:                    [ "entry" ];
+}
+
+prompt {
+    enabled:                     true;
+    background-color:            inherit;
+    text-color:                  inherit;
+    padding: 4px;
+    location:                    center;
+    anchor:                      center;
+
+}
+textbox-prompt-colon {
+    enabled:                     true;
+    expand:                      false;
+    str:                         "::";
+    background-color:            inherit;
+    text-color:                  inherit;
+}
+entry {
+    enabled:                     true;
+    background-color:            transparent;
+    text-color:                  inherit;
+    cursor:                      text;
+    placeholder:                 "Search...";
+    location:                    center;
+    anchor:                      center;
+    padding: 6px 8px;
+    border-radius: 8px;
+    placeholder-color:           inherit;
+}
+
+/*****----- Listview -----*****/
+
+listview {
+    enabled:                     true;
+    columns:                     1;
+    lines:                       8;
+    cycle:                       true;
+    dynamic:                     true;
+    scrollbar:                   false;
+    layout:                      vertical;
+    reverse:                     false;
+    fixed-height:                true;
+    fixed-columns:               true;
+
+    spacing:                     5px;
+    margin:                      0px;
+    padding:                     0px;
+    border:                      0px solid;
+    border-radius:               0px;
+    border-color:                @selected;
+    background-color:            transparent;
+    text-color:                  @foreground;
+    cursor:                      "default";
+}
+
+scrollbar {
+    handle-width:                5px ;
+    handle-color:                @selected;
+    border-radius:               0px;
+    background-color:            @background-alt;
+}
+
+/*****----- Elements -----*****/
+element {
+	enabled:                     true;
+    spacing:                     10px;
+    margin:                      2px;
+    padding:                     5px;
+    border:                      0px solid;
+    border-radius:               12px;
+    border-color:                @selected;
+    text-color:                  @foreground;
+    cursor:                      pointer;
+    background-color:            rgba(0, 0, 0, 0);
+}
+element normal.normal {
+	background-color: transparent;
+}
+element alternate.normal {
+	background-color: transparent;
+}
+element selected.normal {
+    background-color:            rgba(255, 255, 255, 0.5); /* Less opaque for subtlety */
+    text-color:                  @foreground; /* Dark text for light backgrounds */
+}
+element-icon {
+    background-color:            transparent;
+    text-color:                  inherit;
+    size:                        32px;
+    cursor:                      inherit;
+}
+element-text {
+    background-color:            transparent;
+    text-color:                  inherit;
+    highlight:                   inherit;
+    cursor:                      inherit;
+    vertical-align:              0.5;
+    horizontal-align:            0.0;
+}
+
+/*****----- Message -----*****/
+error-message {
+    padding:                     15px;
+    border:                      2px solid;
+    border-radius:               12px;
+    border-color:                @selected;
+    background-color:            @background;
+    text-color:                  @foreground;
+}
+textbox {
+    background-color:            @background;
+    text-color:                  @foreground;
+    vertical-align:              0.5;
+    horizontal-align:            0.0;
+    highlight:                   none;
+}

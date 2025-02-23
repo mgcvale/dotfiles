@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Version=1.0
-Name=launcher
-Comment=launcherstartup script
-Exec=/tmp/.mount_lunarczg1Cl5/launcher --hidden
-StartupNotify=false
-Terminal=false

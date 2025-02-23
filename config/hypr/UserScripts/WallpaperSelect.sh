@@ -68,8 +68,16 @@ main() {
 	done
 
 	if [[ $pic_index -ne -1 ]]; then
-		swww img "${wallDIR}/${PICS[$pic_index]}" $SWWW_PARAMS
-		wal -i "${wallDIR}/${PICS[$pic_index]}"
+        selected_pic="${PICS[$pic_index]}"
+		swww img "${wallDIR}/$selected_pic" $SWWW_PARAMS
+        # hard code ceirtain palletes for specific black and white wallpapers
+        if [[ "$selected_pic" == *"black.png" ]]; then
+            wal -f "$HOME/.config/wal/palettes/dark.json"
+        elif [[ "$selected_pic" == *"white.png" ]]; then
+            wal -f "$HOME/.config/wal/palettes/light.json"
+        else
+            wal -i "${wallDIR}/$selected_pic"
+        fi
 	else
 		echo "Image not found."
 		exit 1

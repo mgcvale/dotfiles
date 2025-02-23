@@ -4,12 +4,12 @@
 # Script for changing mouse sensitivity
 
 notif="$HOME/.config/swaync/images/bell.png"
-STATE=$(hyprctl -j getoption general:sensitivity | jq ".float")
+STATE=$(hyprctl -j getoption input:sensitivity | jq ".float")
 echo "${STATE}"
-if [ "${STATE}" == 0.900000 ]; then
-	hyprctl keyword general:sensitivity 0.5
+if [ "${STATE}" != -0.500000 ]; then
+	hyprctl keyword input:sensitivity -0.5
 	notify-send -e -u low -i "$notif" "Low sensitivity"
 else
-	hyprctl keyword general:sensitivity 0.90
+	hyprctl keyword input:sensitivity 0
 	notify-send -e -u low -i "$notif" "High sensitivity"
 fi
