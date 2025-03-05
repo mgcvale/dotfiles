@@ -1,0 +1,302 @@
+Script started on 2025-02-23 19:48:12-03:00 [TERM="xterm-kitty" TTY="/dev/pts/10" COLUMNS="94" LINES="46"]
+]4;0;#382550\]4;1;#B94F96\]4;2;#9D69A4\]4;3;#3DA6BF\]4;4;#4A8EB3\]4;5;#6096B9\]4;6;#3CB2C7\]4;7;#9ccdd9\]4;8;#6d8f97\]4;9;#B94F96\]4;10;#9D69A4\]4;11;#3DA6BF\]4;12;#4A8EB3\]4;13;#6096B9\]4;14;#3CB2C7\]4;15;#9ccdd9\]10;#9ccdd9\]11;#382550\]12;#9ccdd9\]13;#9ccdd9\]17;#9ccdd9\]19;#382550\]4;232;#382550\]4;256;#9ccdd9\]708;#382550\[H[2J]2;mgcv@localhost:~/.config/hypr/scripts]1;../hypr/scripts]7;file://localhost.localdomain/home/mgcv/.config/hypr/scripts\[0m[27m[24m[J[32mmgcv[32m@localhost[00m ~/.config/hypr/scripts [31m»[00m [K[?1h[?2004hscript[32ms[32mc[32mr[32mi[32mp[32mt[39m[32mt[32ms[39m[1m[31ms[1m[31mc[1m[31mr[1m[31mi[1m[31mp[1m[31mt[1m[31ms[0m[39m[?1l[?2004l
+]2;scripts]1;scriptszsh: command not found: scripts
+]2;mgcv@localhost:~/.config/hypr/scripts]1;../hypr/scripts]7;file://localhost.localdomain/home/mgcv/.config/hypr/scripts\[0m[27m[24m[J[32mmgcv[32m@localhost[00m ~/.config/hypr/scripts [31m»[00m [K[48C[31m127 ↵[00m[53D[?1h[?2004hl[32ml[39m[32ml[39m[90ms[39m[32ml[32ms[39m[?1l[?2004l
+]2;ls --color=tty]1;ls[0m[01;32mAirplaneMode.sh[0m                [01;32mChangeSensitivity.sh[0m  [01;32mPywalSwww.sh[0m             [01;32mVolume.sh[0m
+[01;32mBrightnessKbd.sh[0m               [01;32mClipManager.sh[0m        [01;32mRefreshNoWaybar.sh[0m       [01;32mWaybarCava.sh[0m
+[01;32mBrightnessLess.sh[0m              [01;32mGameMode.sh[0m           [01;32mRefresh.sh[0m               [01;32mWaybarLayout.sh[0m
+[01;32mBrightness.sh[0m                  [01;32mLockScreen.sh[0m         [01;32mRofiEmoji.sh[0m             [01;32mWaybarStyles.sh[0m
+[01;32mChangeBlur.sh[0m                  [01;32mMediaCtrl.sh[0m          [01;32mScreenShot.sh[0m            [01;32mWlogout.sh[0m
+[01;32mChangeInactiveTransparency.sh[0m  [01;32mPolkit-NixOS.sh[0m       [01;32mSwitchKeyboardLayout.sh[0m
+[01;32mChangeLayout.sh[0m                [01;32mPolkit.sh[0m             [01;32mtogglenoise.sh[0m
+[01;32mChangeRefreshrate.sh[0m           [01;32mPortalHyprland.sh[0m     typescript
+]2;mgcv@localhost:~/.config/hypr/scripts]1;../hypr/scripts]7;file://localhost.localdomain/home/mgcv/.config/hypr/scripts\[0m[27m[24m[J[32mmgcv[32m@localhost[00m ~/.config/hypr/scripts [31m»[00m [K[?1h[?2004h[?2004l
+]2;mgcv@localhost:~/.config/hypr/scripts]1;../hypr/scripts]7;file://localhost.localdomain/home/mgcv/.config/hypr/scripts\[0m[27m[24m[J[32mmgcv[32m@localhost[00m ~/.config/hypr/scripts [31m»[00m [K[48C[31m130 ↵[00m[53D[?1h[?2004hl[32ml[39m[32ml[39m[90ms[39m[32ml[32ms[39m[?1l[?2004l
+]2;ls --color=tty]1;ls[0m[01;32mAirplaneMode.sh[0m                [01;32mChangeSensitivity.sh[0m  [01;32mPywalSwww.sh[0m             [01;32mVolume.sh[0m
+[01;32mBrightnessKbd.sh[0m               [01;32mClipManager.sh[0m        [01;32mRefreshNoWaybar.sh[0m       [01;32mWaybarCava.sh[0m
+[01;32mBrightnessLess.sh[0m              [01;32mGameMode.sh[0m           [01;32mRefresh.sh[0m               [01;32mWaybarLayout.sh[0m
+[01;32mBrightness.sh[0m                  [01;32mLockScreen.sh[0m         [01;32mRofiEmoji.sh[0m             [01;32mWaybarStyles.sh[0m
+[01;32mChangeBlur.sh[0m                  [01;32mMediaCtrl.sh[0m          [01;32mScreenShot.sh[0m            [01;32mWlogout.sh[0m
+[01;32mChangeInactiveTransparency.sh[0m  [01;32mPolkit-NixOS.sh[0m       [01;32mSwitchKeyboardLayout.sh[0m
+[01;32mChangeLayout.sh[0m                [01;32mPolkit.sh[0m             [01;32mtogglenoise.sh[0m
+[01;32mChangeRefreshrate.sh[0m           [01;32mPortalHyprland.sh[0m     typescript
+]2;mgcv@localhost:~/.config/hypr/scripts]1;../hypr/scripts]7;file://localhost.localdomain/home/mgcv/.config/hypr/scripts\[0m[27m[24m[J[32mmgcv[32m@localhost[00m ~/.confitnessLess.sh[0m              [01;32mGameMode.sh[0m           [01;32mRefresh.sh[0m               [01;32mWaybarLayout.sh[0m
+[01;32mBrightness.sh[0m                  [01;32mLockScreen.sh[0m         [01;32mRofiEmoji.sh[0m             [01;32mWaybarStyles.sh[0m
+[01;32mChangeBlur.sh[0m                  [01;32mMediaCtrl.sh[0m          [01;32mScreenShot.sh[0m            [01;32mWlogout.sh[0m
+[01;32mChangeInactiveTransparency.sh[0m  [01;32mPolkit-NixOS.sh[0m       [01;32mSwitchKeyboardLayout.sh[0m
+[01;32mChangeLayout.sh[0m                [01;32mPolkit.sh[0m             [01;32mtogglenoise.sh[0m
+[01;32mChangeRefreshrate.sh[0m           [01;32mPortalHyprland.sh[0m     typescript
+]2;mgcv@localhost:~/.config/hypr/scripts]1;../hypr/scripts]7;file://localhost.localdomain/home/mgcv/.config/hypr/scripts\[0m[27m[24m[J[32mmgcv[32m@localhost[00m ~/.config/hypr/scripts [31m»[00m [K[?1h[?2004h[?2004l
+]2;mgcv@localhost:~/.config/hypr/scripts]1;../hypr/scripts]7;file://localhost.localdomain/home/mgcv/.config/hypr/scripts\[0m[27m[24m[J[32mmgcv[32m@localhost[00m ~/.config/hypr/scripts [31m»[00m [K[48C[31m130 ↵[00m[53D[?1h[?2004hl[32ml[39m[32ml[39m[90ms[39m[32ml[32ms[39m[?1l[?2004l
+]2;ls --color=tty]1;ls[0m[01;32mAirplaneMode.sh[0m                [01;32mChangeSensitivity.sh[0m  [01;32mPywalSwww.sh[0m             [01;32mVolume.sh[0m
+[01;32mBrightnessKbd.sh[0m               [01;32mClipManager.sh[0m        [01;32mRefreshNoWaybar.sh[0m       [01;32mWaybarCava.sh[0m
+[01;32mBrightnessLess.sh[0m              [01;32mGameMode.sh[0m           [01;32mRefresh.sh[0m               [01;32mWaybarLayout.sh[0m
+[01;32mBrightness.sh[0m                  [01;32mLockScreen.sh[0m         [01;32mRofiEmoji.sh[0m             [01;32mWaybarStyles.sh[0m
+[01;32mChangeBlur.sh[0m                  [01;32mMediaCtrl.sh[0m          [01;32mScreenShot.sh[0m            [01;32mWlogout.sh[0m
+[01;32mChangeInactiveTransparency.sh[0m  [01;32mPolkit-NixOS.sh[0m       [01;32mSwitchKeyboardLayout.sh[0m
+[01;32mChangeLayout.sh[0m                [01;32mPolkit.sh[0m             [01;32mtogglenoise.sh[0m
+[01;32mChangeRefreshrate.sh[0m           [01;32mPortalHyprland.sh[0m     typescript
+]2;mgcv@localhost:~/.config/hypr/scripts]1;../hypr/scripts]7;file://localhost.localdomain/home/mgcv/.config/hypr/scripts\[0m[27m[24m[J[32mmgcv[32m@localhost[00m ~/.config/hypr/scripts [31m»[00m [K[?1h[?2004hn[1m[31mn[0m[39m[1m[31mn[0m[39m[90mvim Keybinds.conf[39m[17D[1m[31mn[1m[31mv[0m[39m[1m[31mn[0m[39m[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[1m[31mn[0m[39m[90mvim Keybinds.conf[39m[17D[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18Dc[1m[31mc[0m[39m[1m[31mc[0m[39m[90md configs[39m[9D[1m[31mc[1m[31ma[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [8D[90mt ~/.config/rofi/pywal-color/pywal-theme.rasi[39m[45D[1m[31mc[1m[31ma[1m[31mt[0m[39m[0m[32mc[0m[32ma[0m[32mt[39m[32mt[32m [39m[32mt[39m[39m [39mS[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [42D[4mS[24m[4mS[4mc[24m[4mc[4mreenShot.sh[24m[1m [0m[0m [?1l[?2004l
+]2;cat ScreenShot.sh]1;cat#!/bin/bash
+# /* ---- 💫 https://github.com/JaKooLit 💫 ---- */  ##
+# Screenshots scripts
+
+iDIR="$HOME/.config/swaync/icons"
+sDIR="$HOME/.config/hypr/UserScripts"
+notify_cmd_shot="notify-send -h string:x-canonical-private-synchronous:shot-notify -u low -i ${iDIR}/picture.png"
+
+time=$(date "+%d-%b_%H-%M-%S")
+dir="$(xdg-user-dir)/Pictures/Screenshots"
+file="Screenshot_${time}_${RANDOM}.png"
+
+active_window_class=$(hyprctl -j act
+fi
+
+if [[ "$1" == "--now" ]]; then
+	shotnow
+elif [[ "$1" == "--in5" ]]; then
+	shot5
+elif [[ "$1" == "--in10" ]]; then
+	shot10
+elif [[ "$1" == "--win" ]]; then
+	shotwin
+elif [[ "$1" == "--area" ]]; then
+	shotarea
+elif [[ "$1" == "--active" ]]; then
+	shotactive
+elif [[ "$1" == "--swappy" ]]; then
+	shotswappy
+else
+	echo -e "Available Options : --now --in5 --in10 --win --area --active --swappy"
+fi
+
+exit 0
+]2;mgcv@localhost:~/.config/hypr/scripts]1;../hypr/scripts]7;file://localhost.localdomain/home/mgcv/.config/hypr/scripts\[0m[27m[24m[J[32mmgcv[32m@localhost[00m ~/.config/hypr/scripts [31m»[00m [K[?1h[?2004h[0m[27m[24m[J[32mmgcv[32m@localhost[00m ~/.config/hypr/scripts [31m»[00m [0m[27m[24m[J[32mmgcv[32m@localhost[00m ~/.config/hypr/scripts [31m»[00m [0m[27m[24m[J[32mmgcv[32m@localhost[00m ~/.config/hypr/scripts [31m»[00m [0m[27m[24m[J[32mmgcv[32m@localhost[00m ~/.config/hypr/scripts [31m»[00m [0m[27m[24m[J[32mmgcv[32m@localhost[00m ~/.config/hypr/scripts [31m»[00m [0m[27m[24m[J[32mmgcv[32m@localhost[00m ~/.config/hypr/scripts [31m»[00m q[1m[31mq[0m[39m[0m[39mq
+[0mqdbus6                               qmlmin                             
+qdbuscpp2xml6                        qmlmin-qt5                         
+qdbus-qt5                            qmlplugindump6                     
+qdbusviewer6                         qmlplugindump-qt5                  
+qdbusxml2cpp6                        qmlpreview                         
+QEMU_AUDIO_DRV                       qmlpreview6                        
+qemu-edid                            qmlpreview-qt5                     
+qemu-img                             qmlprofiler6                       
+qemu-io                              qmlprofiler-qt5                    
+qemu-keymap                          qml-qt5                            
+qemu-kvm                             qmlscene                           
+qemu-nbd                             qmlscene6                          
+qemu-pr-helper                       qmlscene-qt5                       
+qemu-storage-daemon                  qmltc6                             
+qemu-system-i386                     qmltestrunner                      
+qemu-system-x86_64                   qmltestrunner6                     
+qemu-vmsr-helper                     qmltestrunner-qt5                  
+qmake6                               qmltime                            
+qmicli                               qmltime6                           
+qmi-firmware-update                  qmltime-qt5                        
+qmi-network                          qmltyperegistrar                   
+qml                                  qmltyperegistrar-qt5               
+qml6                                 qoitopam                           
+qmlcachegen                          qrttoppm                           
+qmlcachegen-qt5                      qt5ct                              
+qmldom6                              qt6ct                              
+qmleasing                            QT_AUTO_SCREEN_SCALE_FACTOR        
+qmleasing6                           qt-cmake6                          
+qmleasing-qt5                        qt-cmake-create6                   
+qmlformat                            qt-configure-module6               
+qmlformat6                           qt-faststart                       
+qmlformat-qt5                        qtpaths6                           
+qmlimportscanner                     QT_QPA_PLATFORM                    
+qmlimportscanner-qt5                 QT_QPA_PLATFORM_THEME              
+qmllint                              QT_QPA_PLATFORMTHEME               
+qmllint6                             QT_SCALE_FACTOR                    
+qmllint-qt5                          QT_WAYLAND_DISABLE_WINDOWDECORATION
+[Jqmlls6                               [Jqvlc                               [J[38A[0m[27m[24m[40Cq[K[1m[31mq[0m[39m[0m[39mq
+[J[0mqdbu                         
+qmleasing                            QT_AUTO_SCREEN_SCALE_FACTOR        
+qmleasing6                           qt-cmake6                          
+qmleasing-qt5                        qt-cmake-create6                   
+qmlformat                            qt-configure-module6               
+qmlformat6                           qt-faststart                       
+qmlformat-qt5                        qtpaths6                           
+qmlimportscanner                     QT_QPA_PLATFORM                    
+qmlimportscanner-qt5                 QT_QPA_PLATFORM_THEME              
+qmllint                              QT_QPA_PLATFORMTHEME               
+qmllint6                             QT_SCALE_FACTOR                    
+qmllint-qt5                          QT_WAYLAND_DISABLE_WINDOWDECORATION
+[Jqmlls6                               [Jqvlc                               [J[38A[0m[27m[24m[40Cq[K[1m[31mq[0m[39m[0m[39mq
+[J[0mqdbus6                               qmlmin                             
+qdbuscpp2xml6                        qmlmin-qt5                         
+qdbus-qt5                            qmlplugindump6                     
+qdbusviewer6                         qmlplugindump-qt5                  
+qdbusxml2cpp6                        qmlpreview                         
+QEMU_AUDIO_DRV                       qmlpreview6                        
+qemu-edid                            qmlpreview-qt5                     
+qemu-img                             qmlprofiler6                       
+qemu-io                              qmlprofiler-qt5                    
+qemu-keymap                          qml-qt5                            
+qemu-kvm                             qmlscene                           
+qemu-nbd                             qmlscene6                          
+qemu-pr-helper                       qmlscene-qt5                       
+qemu-storage-daemon                  qmltc6                             
+qemu-system-i386                     qmltestrunner                      
+qemu-system-x86_64                   qmltestrunner6                     
+qemu-vmsr-helper                     qmltestrunner-qt5                  
+qmake6                               qmltime                            
+qmicli                               qmltime6                           
+qmi-firmware-update                  qmltime-qt5                        
+qmi-network                          qmltyperegistrar                   
+qml                                  qmltyperegistrar-qt5               
+qml6                                 qoitopam                           
+qmlcachegen                          qrttoppm                           
+qmlcachegen-qt5                      qt5ct                              
+qmldom6                              qt6ct                              
+qmleasing                            QT_AUTO_SCREEN_SCALE_FACTOR        
+qmleasing6                           qt-cmake6                          
+qmleasing-qt5                        qt-cmake-create6                   
+qmlformat                            qt-configure-module6               
+qmlformat6                           qt-faststart                       
+qmlformat-qt5                        qtpaths6                           
+qmlimportscanner                     QT_QPA_PLATFORM                    
+qmlimportscanner-qt5                 QT_QPA_PLATFORM_THEME              
+qmllint                              QT_QPA_PLATFORMTHEME               
+qmllint6                             QT_SCALE_FACTOR                    
+qmllint-qt5                          QT_WAYLAND_DISABLE_WINDOWDECORATION
+[Jqmlls6                               [Jqvlc                               [J[38A[0m[27m[24m[40Cq[K[1m[31mq[0m[39m[0m[39mq
+[J[0mqdbus6                               qmlmin                             
+qdbuscpp2xml6                        qmlmin-qt5                         
+qdbus-qt5                            qmlplugindump6                               
+qmlimportscanner                     QT_QPA_PLATFORM                    
+qmlimportscanner-qt5                 QT_QPA_PLATFORM_THEME              
+qmllint                              QT_QPA_PLATFORMTHEME               
+qmllint6                             QT_SCALE_FACTOR                    
+qmllint-qt5                          QT_WAYLAND_DISABLE_WINDOWDECORATION
+[Jqmlls6                               [Jqvlc                               [J[38A[0m[27m[24m[40Cq[K[1m[31mq[0m[39m[0m[39mq
+[J[0mqdbus6                               qmlmin                             
+qdbuscpp2xml6                        qmlmin-qt5                         
+qdbus-qt5                            qmlplugindump6                     
+qdbusviewer6                         qmlplugindump-qt5                  
+qdbusxml2cpp6                        qmlpreview                         
+QEMU_AUDIO_DRV                       qmlpreview6                        
+qemu-edid                            qmlpreview-qt5                     
+qemu-img                             qmlprofiler6                       
+qemu-io                              qmlprofiler-qt5                    
+qemu-keymap                          qml-qt5                            
+qemu-kvm                             qmlscene                           
+qemu-nbd                             qmlscene6                          
+qemu-pr-helper                       qmlscene-qt5                       
+qemu-storage-daemon                  qmltc6                             
+qemu-system-i386                     qmltestrunner                      
+qemu-system-x86_64                   qmltestrunner6                     
+qemu-vmsr-helper                     qmltestrunner-qt5                  
+qmake6                               qmltime                            
+qmicli                               qmltime6                           
+qmi-firmware-update                  qmltime-qt5                        
+qmi-network                          qmltyperegistrar                   
+qml                                  qmltyperegistrar-qt5               
+qml6                                 qoitopam                           
+qmlcachegen                          qrttoppm                           
+qmlcachegen-qt5                      qt5ct                              
+qmldom6                              qt6ct                              
+qmleasing                            QT_AUTO_SCREEN_SCALE_FACTOR        
+qmleasing6                           qt-cmake6                          
+qmleasing-qt5                        qt-cmake-create6                   
+qmlformat                            qt-configure-module6               
+qmlformat6                           qt-faststart                       
+qmlformat-qt5                        qtpaths6                           
+qmlimportscanner                     QT_QPA_PLATFORM                    
+qmlimportscanner-qt5                 QT_QPA_PLATFORM_THEME              
+qmllint                              QT_QPA_PLATFORMTHEME               
+qmllint6                             QT_SCALE_FACTOR                    
+qmllint-qt5                          QT_WAYLAND_DISABLE_WINDOWDECORATION
+[Jqmlls6                               [Jqvlc                               [J[38A[0m[27m[24m[40Cq[K[1m[31mq[0m[39m[0m[39mq
+[J[0mqdbus6                               qmlmin                             
+qdbuscpp2xml6                        qmlmin-qt5                         
+qdbus-qt5                            qmlplugindump6                     
+qdbusviewer6                         qmlplugindump-qt5                  
+qdbusxml2cpp6                        qmlpreview                         
+QEMU_AUDIO_DRV                       qmlpreview6                        
+qemu-edid                            qmlpreview-qt5                     
+qemu-img                             qmlprofiler6                       
+qemu-io                              qmlprofiler-qt5                    
+qemRM                    
+qmlimportscanner-qt5                 QT_QPA_PLATFORM_THEME              
+qmllint                              QT_QPA_PLATFORMTHEME               
+qmllint6                             QT_SCALE_FACTOR                    
+qmllint-qt5                          QT_WAYLAND_DISABLE_WINDOWDECORATION
+[Jqmlls6                               [Jqvlc                               [J[38A[0m[27m[24m[40Cq[K[1m[31mq[0m[39m[0m[39mq
+[J[0mqdbus6                               qmlmin                             
+qdbuscpp2xml6                        qmlmin-qt5                         
+qdbus-qt5                            qmlplugindump6                     
+qdbusviewer6                         qmlplugindump-qt5                  
+qdbusxml2cpp6                        qmlpreview                         
+QEMU_AUDIO_DRV                       qmlpreview6                        
+qemu-edid                            qmlpreview-qt5                     
+qemu-img                             qmlprofiler6                       
+qemu-io                              qmlprofiler-qt5                    
+qemu-keymap                          qml-qt5                            
+qemu-kvm                             qmlscene                           
+qemu-nbd                             qmlscene6                          
+qemu-pr-helper                       qmlscene-qt5                       
+qemu-storage-daemon                  qmltc6                             
+qemu-system-i386                     qmltestrunner                      
+qemu-system-x86_64                   qmltestrunner6                     
+qemu-vmsr-helper                     qmltestrunner-qt5                  
+qmake6                               qmltime                            
+qmicli                               qmltime6                           
+qmi-firmware-update                  qmltime-qt5                        
+qmi-network                          qmltyperegistrar                   
+qml                                  qmltyperegistrar-qt5               
+qml6                                 qoitopam                           
+qmlcachegen                          qrttoppm                           
+qmlcachegen-qt5                      qt5ct                              
+qmldom6                              qt6ct                              
+qmleasing                            QT_AUTO_SCREEN_SCALE_FACTOR        
+qmleasing6                           qt-cmake6                          
+qmleasing-qt5                        qt-cmake-create6                   
+qmlformat                            qt-configure-module6               
+qmlformat6                           qt-faststart                       
+qmlformat-qt5                        qtpaths6                           
+qmlimportscanner                     QT_QPA_PLATFORM                    
+qmlimportscanner-qt5                 QT_QPA_PLATFORM_THEME              
+qmllint                              QT_QPA_PLATFORMTHEME               
+qmllint6                             QT_SCALE_FACTOR                    
+qmllint-qt5                          QT_WAYLAND_DISABLE_WINDOWDECORATION
+[Jqmlls6                               [Jqvlc                               [J[38A[0m[27m[24m[40Cq[K[1m[31mq[0m[39m[0m[39mq
+[J[0mqdbus6                               qmlmin                             
+qdbuscpp2xml6                        qmlmin-qt5                         
+qdbus-qt5                            qmlplugindump6                     
+qdbusviewer6                         qmlplugindump-qt5                  
+qdbusxml2cpp6                        qmlpreview                         
+QEMU_AUDIO_DRV                       qmlpreview6                        
+qemu-edid                            qmlpreview-qt5                     
+qemu-img                             qmlprofiler6                       
+qemu-io                              qmlprofiler-qt5                    
+qemu-keymap                          qml-qt5                            
+qemu-kvm                             qmlscene                           
+qemu-nbd                             qmlscene6                          
+qemu-pr-helper                       qmlscene-qt5                       
+qemu-storage-daemon                  qmltc6                             
+qemu-system-i386                     qmltestrunner                      
+qemu-system-x86_64                   qmltestrunner6                     
+qemu-vmsr-helper                     qmltestrunner-qt5                  
+qmake6                               qmltime                            
+qmicli                               qmltime6                           
+qmi-firmware-update                  qmltime-qt5                        
+qmi-network                          qmltyperegistrar                   
+qml                                  qmltyperegistrar-qt5               
+qml6                                 qoitopam                           
+qmlcachegen                          qrttoppm                           
+qmlcachegen-qt5                      qt5ct                              
+qmldom6                              qt6ct                              
+qmleasing                            QT_AUTO_SCREEN_SCALE_FACTOR        
+qmleasing6                           qt-cmake6                          
+qmleasing-qt5                        qt-cmake-create6                   
+qmlformat                            qt-configure-module6               
+qmlformat6                           qt-faststart                       
+qmlformat-qt5                        qtpaths6                           
+qmlimportscanner                     QT_QPA_PLATFORM                    
+qmlimportscanner-qt5                 QT_QPA_PLATFORM_THEME              
+qmllint                              QT_QPA_PLATFORMTHEME               
+qmllint6                             QT_SCALE_FACTOR                    
+qmllint-qt5                          QT_WAYLAND_DISABLE_WINDOWDECORATION
+[Jqmlls6                               [Jqvlc                               [J[38A[0m[27m[24m[40Cq[K[1m[31mq[0m[39m
+Script done on 2025-02-23 19:50:31-03:00 [COMMAND_EXIT_CODE="0"]
