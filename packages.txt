@@ -32,3 +32,4 @@ Blender Pro system-wide font
 
 Other stuff you need to do:
 Bind waybar's and Hyprland's IPC sockets
+Disable and repurpose capslock
