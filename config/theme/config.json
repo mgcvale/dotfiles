@@ -1,0 +1,21 @@
+{
+  "default": "auto",
+  "brightness_threshold": 0.5,
+  "wallpapers": {
+    "black.png": "dark",
+    "white.png": "light",
+    "mantra.png": "dark",
+    "japan-street-Light.png": "light"
+  },
+  "gtk_themes": {
+    "light": "Adwaita",
+    "dark": "Adwaita-dark"
+  },
+  "icon_themes": {
+    "light": "breeze",
+    "dark": "breeze-dark"
+  },
+  "palette_backgrounds": {
+    "japan-street-Light.png": "#b7c0c7"
+  }
+}

@@ -1,9 +1,11 @@
 #!/bin/bash
 set -euo pipefail
 
-if ! awww query >/dev/null 2>&1; then
-    awww-daemon &
+if awww query >/dev/null 2>&1; then
+    # Leave the running daemon's current image alone.
+    exit 0
 fi
+awww-daemon 9>&- &
 
 for _ in {1..50}; do
     if awww query >/dev/null 2>&1; then

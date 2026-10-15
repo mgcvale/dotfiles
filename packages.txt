@@ -22,6 +22,11 @@ awww (including awww-daemon)
 wl-clipboard
 cliphist
 pywal
+ImageMagick (wallpaper brightness detection)
+GSettings tools
+xdg-desktop-portal
+xdg-desktop-portal-gtk
+xdg-desktop-portal-hyprland
 wlogout
 network-manager-gnome
 nm-applet
@@ -30,6 +35,7 @@ For theming:
 KDE-Story (SDDM)
 Default GTK cursors
 Breeze icons
+Adwaita light/dark GTK themes
 Blender Pro system-wide font
 Bricolage Grotesque (bundled in font/BricolageGrotesque)
 

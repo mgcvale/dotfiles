@@ -1,0 +1,54 @@
+#!/usr/bin/env python3
+"""Adapt pywal's legacy TXT palette request to ImageMagick's INFO encoder."""
+
+import os
+import re
+import subprocess
+import sys
+
+
+def palette_colors(output):
+    colors = re.findall(r"^#([0-9a-fA-F]{6})", output, re.MULTILINE)
+    if not colors:
+        raise ValueError("ImageMagick returned no palette colors")
+    if len(colors) >= 16:
+        return colors
+    # Low-color wallpapers still need sixteen entries for pywal's indexing.
+    # Interpolate existing shades instead of retrying quantization twenty times.
+    rgb = [tuple(int(color[i:i + 2], 16) for i in (0, 2, 4)) for color in colors]
+    result = []
+    for i in range(16):
+        position = i * (len(rgb) - 1) / 15
+        left = int(position)
+        right = min(left + 1, len(rgb) - 1)
+        amount = position - left
+        color = tuple(round(a + (b - a) * amount) for a, b in zip(rgb[left], rgb[right]))
+        result.append("%02X%02X%02X" % color)
+    return result
+
+
+def main():
+    executable = os.environ["PYWAL_MAGICK_REAL"]
+    args = sys.argv[1:]
+    if args and args[0] == "convert":
+        args = args[1:]
+    if not args or args[-1] != "txt:-" or "-unique-colors" not in args:
+        os.execv(executable, [executable, *args])
+    count = args.index("-colors") + 1
+    args[count] = str(max(32, int(args[count])))
+    # INFO is supported by the installed policy; no global policy changes.
+    args[-1:] = ["-crop", "1x1", "+repage", "-depth", "8",
+                 "-format", "#%[hex:p{0,0}]\n", "info:"]
+    result = subprocess.run([executable, *args], capture_output=True, text=True,
+                            check=True, timeout=15)
+    print("# ImageMagick palette enumeration")
+    for color in palette_colors(result.stdout):
+        print("#" + color)
+
+
+if __name__ == "__main__":
+    try:
+        main()
+    except (OSError, ValueError, KeyError, subprocess.SubprocessError) as error:
+        print(f"pywal ImageMagick adapter: {error}", file=sys.stderr)
+        sys.exit(1)

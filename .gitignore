@@ -3,3 +3,4 @@ __pycache__/
 *.py[cod]
 *.so
 /config/rofi/.current_wallpaper
+tests/

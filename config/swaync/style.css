@@ -1,12 +1,12 @@
 @import '../../.cache/wal/colors-waybar.css';
 
-@define-color noti-border-color @color2;
-@define-color noti-bg rgba(0, 0, 0, 0.8);
-@define-color noti-bg-alt #111111;
-@define-color noti-bg-hover @color2;
-@define-color text-color @color2;
-@define-color text-color-alt @color7;
-@define-color text-color-disabled rgba(150, 150, 150, 0.8);
+@define-color noti-border-color alpha(@foreground, 0.18);
+@define-color noti-bg alpha(@background, 0.9);
+@define-color noti-bg-alt mix(@background, @foreground, 0.04);
+@define-color noti-bg-hover mix(@background, @foreground, 0.12);
+@define-color text-color @foreground;
+@define-color text-color-alt @foreground;
+@define-color text-color-disabled alpha(@foreground, 0.45);
 
 * {
     font-family: BlenderPro;
@@ -70,7 +70,7 @@
 .notification-default-action:hover,
 .notification-action:hover {
     color: @text-color;
-    background: @color1
+    background: @noti-bg-hover
 }
 
 .notification-default-action {
@@ -85,12 +85,12 @@
 
 .notification-action:first-child {
     border-bottom-left-radius: 10px;
-    background: #1b1b2b
+    background: @noti-bg-alt
 }
 
 .notification-action:last-child {
     border-bottom-right-radius: 10px;
-    background: #1b1b2b
+    background: @noti-bg-alt
 }
 
 .inline-reply {
