@@ -10,7 +10,6 @@ from gi.repository import Playerctl, GLib
 
 logger = logging.getLogger(__name__)
 
-
 def write_output(text, player):
     logger.info('Writing output')
 
@@ -21,11 +20,9 @@ def write_output(text, player):
     sys.stdout.write(json.dumps(output) + '\n')
     sys.stdout.flush()
 
-
 def on_play(player, status, manager):
     logger.info('Received new playback status')
     on_metadata(player, player.props.metadata, manager)
-
 
 def on_metadata(player, metadata, manager):
     logger.info('Received new metadata')
@@ -45,19 +42,16 @@ def on_metadata(player, metadata, manager):
         track_info = ' ' + track_info
     write_output(track_info, player)
 
-
 def on_player_appeared(manager, player, selected_player=None):
     if player is not None and (selected_player is None or player.name == selected_player):
         init_player(manager, player)
     else:
         logger.debug("New player appeared, but it's not the selected player, skipping")
 
-
 def on_player_vanished(manager, player):
     logger.info('Player has vanished')
     sys.stdout.write('\n')
     sys.stdout.flush()
-
 
 def init_player(manager, name):
     logger.debug('Initialize player: {player}'.format(player=name.name))
@@ -67,14 +61,12 @@ def init_player(manager, name):
     manager.manage_player(player)
     on_metadata(player, player.props.metadata, manager)
 
-
 def signal_handler(sig, frame):
     logger.debug('Received signal to stop, exiting')
     sys.stdout.write('\n')
     sys.stdout.flush()
     # loop.quit()
     sys.exit(0)
-
 
 def parse_arguments():
     parser = argparse.ArgumentParser()
@@ -86,7 +78,6 @@ def parse_arguments():
     parser.add_argument('--player')
 
     return parser.parse_args()
-
 
 def main():
     arguments = parse_arguments()
@@ -122,7 +113,6 @@ def main():
         init_player(manager, player)
 
     loop.run()
-
 
 if __name__ == '__main__':
     main()

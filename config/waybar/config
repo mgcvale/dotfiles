@@ -1,45 +1,33 @@
-// ### DEFAULT Top -Laptop ### //
 {
-"include": "~/.config/waybar/modules",
-"layer": "top",
-//"mode": "dock",
-"exclusive": true,
-"passthrough": false,
-"position": "top",
-"spacing": 3,
-"fixed-center": true,
-"ipc": true,
-"margin-top": 6,
-"margin-left": 10,
-"margin-right": 10,
-"margin-bottom": 0,
-"height": 26,
-
-"ipc": {
-    "socket": "$XDG_RUNTIME_DIR/hypr/
-_1728778950_1136228861/.socket.sock",
-    "socket2": "$XDG_RUNTIME_DIR/hypr/
-_1728778950_1136228861/.socket2.sock"
-},
-
-"modules-left": [
-    "custom/separator",
-	"hyprland/workspaces",
-	"custom/separator#line",
-	"memory",
-	"custom/separator"
-	],
-
-"modules-center": [
-	"clock",
-	],
-
-"modules-right": [
-	"tray",
-	"mpris",
-	"custom/separator#line",
-	"battery",
-	"custom/separator#line",
-	"custom/power",
-	],
+    "include": "~/.config/waybar/modules",
+    "layer": "top",
+    "exclusive": true,
+    "passthrough": false,
+    "position": "top",
+    "spacing": 3,
+    "fixed-center": true,
+    "ipc": true,
+    "reload_style_on_change": true,
+    "margin-top": 6,
+    "margin-left": 10,
+    "margin-right": 10,
+    "margin-bottom": 0,
+    "height": 36,
+    "cffi/portfolio-underline": {
+        "module_path": "/home/mgcv/.config/waybar/cffi/portfolio_underline.so",
+        "duration-ms": 300
+    },
+    "modules-left": [
+        "hyprland/workspaces",
+        "cffi/portfolio-underline"
+    ],
+    "modules-center": [
+        "clock"
+    ],
+    "modules-right": [
+        "tray",
+        "mpris",
+        "custom/separator#line",
+        "battery"
+    ]
 }

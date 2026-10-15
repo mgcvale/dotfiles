@@ -1,1 +1,5 @@
 .initial_startup_done
+__pycache__/
+*.py[cod]
+*.so
+/config/rofi/.current_wallpaper

@@ -32,7 +32,7 @@
        	"dnd",
         "buttons-grid",
 		"mpris",
-    	"volume", 
+        "volume",
    	 	"backlight",
         "title",
         "notifications"
@@ -72,15 +72,11 @@
                 },
                 {
                     "label": "󰌾",
-                    "command": "~/.config/hypr/scripts/LockScreen.sh"
+                    "command": "~/.config/hypr/scripts/lock_screen.sh"
                 },
                 {
                     "label": "󰍃",
                     "command": "hyprctl dispatch exit"
-                },
-                {
-                    "label": "󰀝",
-                    "command": "~/.config/hypr/scripts/AirplaneMode.sh"
                 },
                 {
                     "label": "󰕾",
